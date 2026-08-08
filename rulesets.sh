@@ -20,8 +20,11 @@ convert_rules() {
   local input_file="$1"
   local qx_file="$2"
   local shadowrocket_file="$3"
+  local qx_policy="$4"
 
-  awk -v qx_file="${qx_file}" -v shadowrocket_file="${shadowrocket_file}" '
+  awk -v qx_file="${qx_file}" \
+    -v shadowrocket_file="${shadowrocket_file}" \
+    -v qx_policy="${qx_policy}" '
     function trim(value) {
       sub(/^[[:space:]]+/, "", value)
       sub(/[[:space:]]+$/, "", value)
@@ -59,11 +62,35 @@ convert_rules() {
       }
 
       if (rule != "") {
-        print qx_type "," rule >> qx_file
+        print qx_type "," rule "," qx_policy >> qx_file
         print shadowrocket_type "," rule >> shadowrocket_file
       }
     }
   ' "${input_file}"
+}
+
+add_qx_header() {
+  local rules_file="$1"
+  local output_file="$2"
+  local name="$3"
+  local source_url="$4"
+  local host_count
+  local host_suffix_count
+  local total_count
+
+  host_count="$(awk -F, '$1 == "HOST" { count++ } END { print count + 0 }' "${rules_file}")"
+  host_suffix_count="$(awk -F, '$1 == "HOST-SUFFIX" { count++ } END { print count + 0 }' "${rules_file}")"
+  total_count="$(wc -l < "${rules_file}")"
+  total_count="${total_count//[[:space:]]/}"
+
+  {
+    echo "# NAME: ${name}"
+    echo "# SOURCE: ${source_url}"
+    echo "# HOST: ${host_count}"
+    echo "# HOST-SUFFIX: ${host_suffix_count}"
+    echo "# TOTAL: ${total_count}"
+    cat "${rules_file}"
+  } > "${output_file}"
 }
 
 url_count=0
@@ -84,17 +111,26 @@ while IFS= read -r source_url || [[ -n "${source_url}" ]]; do
   fi
 
   upstream_file="${stage_dir}/upstream-${url_count}.list"
+  qx_policy="${file_name%.list}"
+  qx_rules_file="${stage_dir}/QuantumultX/${file_name}.rules"
   echo "Downloading ${source_url}"
   curl --fail --silent --show-error --location \
     --retry 3 --retry-delay 2 --connect-timeout 15 --max-time 120 \
     --output "${upstream_file}" "${source_url}"
 
-  : > "${stage_dir}/QuantumultX/${file_name}"
+  : > "${qx_rules_file}"
   : > "${stage_dir}/Shadowrocket/${file_name}"
   convert_rules \
     "${upstream_file}" \
+    "${qx_rules_file}" \
+    "${stage_dir}/Shadowrocket/${file_name}" \
+    "${qx_policy}"
+  add_qx_header \
+    "${qx_rules_file}" \
     "${stage_dir}/QuantumultX/${file_name}" \
-    "${stage_dir}/Shadowrocket/${file_name}"
+    "${qx_policy}" \
+    "${source_url}"
+  rm -- "${qx_rules_file}"
 
   url_count=$((url_count + 1))
 done < "${SOURCE_FILE}"
