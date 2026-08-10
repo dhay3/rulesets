@@ -1,8 +1,8 @@
 # NAME: cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/cn.list
 # HOST: 0
-# HOST-SUFFIX: 111293
-# TOTAL: 111293
+# HOST-SUFFIX: 111294
+# TOTAL: 111294
 HOST-SUFFIX,alibaba,cn
 HOST-SUFFIX,yun,cn
 HOST-SUFFIX,xn--zfr164b,cn
@@ -56,7 +56,7 @@ HOST-SUFFIX,baidu,cn
 HOST-SUFFIX,anquan,cn
 HOST-SUFFIX,alipay,cn
 HOST-SUFFIX,jsgjksl.com,cn
-HOST-SUFFIX,fequan.com,cn
+HOST-SUFFIX,yfwnm.com,cn
 HOST-SUFFIX,028kuaidai.com,cn
 HOST-SUFFIX,028ltzx.com,cn
 HOST-SUFFIX,028office.com,cn
@@ -5157,7 +5157,7 @@ HOST-SUFFIX,51speeds.com,cn
 HOST-SUFFIX,51spjx.com,cn
 HOST-SUFFIX,51ssl.com,cn
 HOST-SUFFIX,51ste.com,cn
-HOST-SUFFIX,jsntg.com,cn
+HOST-SUFFIX,51sucaiyuan.com,cn
 HOST-SUFFIX,51suitui.com,cn
 HOST-SUFFIX,51sutong.com,cn
 HOST-SUFFIX,51sytx.com,cn
@@ -13284,7 +13284,7 @@ HOST-SUFFIX,b5esports.me,cn
 HOST-SUFFIX,b5m.com,cn
 HOST-SUFFIX,b5nngc6zmt.com,cn
 HOST-SUFFIX,b6098130711042.beer,cn
-HOST-SUFFIX,b612.me,cn
+HOST-SUFFIX,jsntg.com,cn
 HOST-SUFFIX,b612.net,cn
 HOST-SUFFIX,b612kaji.com,cn
 HOST-SUFFIX,b643bce461009.beer,cn
@@ -33986,7 +33986,7 @@ HOST-SUFFIX,fenzhi.com,cn
 HOST-SUFFIX,fenzhi.net,cn
 HOST-SUFFIX,fenzijr.com,cn
 HOST-SUFFIX,feotech.com,cn
-HOST-SUFFIX,jsntgas.com,cn
+HOST-SUFFIX,fequan.com,cn
 HOST-SUFFIX,ferlie.net,cn
 HOST-SUFFIX,ferlytc.com,cn
 HOST-SUFFIX,fermatmind.com,cn
@@ -37218,7 +37218,7 @@ HOST-SUFFIX,geekcar.net,cn
 HOST-SUFFIX,geekclo.com,cn
 HOST-SUFFIX,geekdaxue.co,cn
 HOST-SUFFIX,geekdive.com,cn
-HOST-SUFFIX,geekefu.com,cn
+HOST-SUFFIX,jsnx.net,cn
 HOST-SUFFIX,geekercloud.com,cn
 HOST-SUFFIX,geekerconsulting.com,cn
 HOST-SUFFIX,geekerhua.com,cn
@@ -46907,7 +46907,7 @@ HOST-SUFFIX,hr-welink.com,cn
 HOST-SUFFIX,hr002.com,cn
 HOST-SUFFIX,hr025.com,cn
 HOST-SUFFIX,hr0571.com,cn
-HOST-SUFFIX,jsnx.net,cn
+HOST-SUFFIX,hr0660.com,cn
 HOST-SUFFIX,hr0715.com,cn
 HOST-SUFFIX,hr0752.com,cn
 HOST-SUFFIX,hr0753.com,cn
@@ -55675,9 +55675,9 @@ HOST-SUFFIX,jsnjck.com,cn
 HOST-SUFFIX,jsnjjg.com,cn
 HOST-SUFFIX,jsnkmy.com,cn
 HOST-SUFFIX,jsnol.com,cn
-HOST-SUFFIX,51sucaiyuan.com,cn
+HOST-SUFFIX,b612.me,cn
 HOST-SUFFIX,028hema.com,cn
-HOST-SUFFIX,hr0660.com,cn
+HOST-SUFFIX,geekefu.com,cn
 HOST-SUFFIX,jsnxs.com,cn
 HOST-SUFFIX,jsnydefy.com,cn
 HOST-SUFFIX,jsnydsfy.com,cn
@@ -60909,6 +60909,7 @@ HOST-SUFFIX,lifeup.vip,cn
 HOST-SUFFIX,lifevc.com,cn
 HOST-SUFFIX,lifevccdn.com,cn
 HOST-SUFFIX,lifeweeker.com,cn
+HOST-SUFFIX,lifexue.com,cn
 HOST-SUFFIX,lifeyk.com,cn
 HOST-SUFFIX,lifeyn.net,cn
 HOST-SUFFIX,lifezb.com,cn
@@ -102658,7 +102659,7 @@ HOST-SUFFIX,yftxt.com,cn
 HOST-SUFFIX,yfty88.com,cn
 HOST-SUFFIX,yfvb.com,cn
 HOST-SUFFIX,yfway.com,cn
-HOST-SUFFIX,yfwnm.com,cn
+HOST-SUFFIX,jsntgas.com,cn
 HOST-SUFFIX,yfwpt.vip,cn
 HOST-SUFFIX,yfycrc.com,cn
 HOST-SUFFIX,yfycyboil.com,cn
