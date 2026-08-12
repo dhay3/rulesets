@@ -1,8 +1,8 @@
 # NAME: cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/cn.list
 # HOST: 0
-# HOST-SUFFIX: 111294
-# TOTAL: 111294
+# HOST-SUFFIX: 111297
+# TOTAL: 111297
 HOST-SUFFIX,alibaba,cn
 HOST-SUFFIX,yun,cn
 HOST-SUFFIX,xn--zfr164b,cn
@@ -56,7 +56,7 @@ HOST-SUFFIX,baidu,cn
 HOST-SUFFIX,anquan,cn
 HOST-SUFFIX,alipay,cn
 HOST-SUFFIX,jsgjksl.com,cn
-HOST-SUFFIX,yfwnm.com,cn
+HOST-SUFFIX,jlc-ecad.com,cn
 HOST-SUFFIX,028kuaidai.com,cn
 HOST-SUFFIX,028ltzx.com,cn
 HOST-SUFFIX,028office.com,cn
@@ -13284,7 +13284,7 @@ HOST-SUFFIX,b5esports.me,cn
 HOST-SUFFIX,b5m.com,cn
 HOST-SUFFIX,b5nngc6zmt.com,cn
 HOST-SUFFIX,b6098130711042.beer,cn
-HOST-SUFFIX,jsntg.com,cn
+HOST-SUFFIX,b612.me,cn
 HOST-SUFFIX,b612.net,cn
 HOST-SUFFIX,b612kaji.com,cn
 HOST-SUFFIX,b643bce461009.beer,cn
@@ -26463,7 +26463,7 @@ HOST-SUFFIX,d-robotics.cc,cn
 HOST-SUFFIX,d-stars.net,cn
 HOST-SUFFIX,d-techs.com,cn
 HOST-SUFFIX,d-wolves.com,cn
-HOST-SUFFIX,d.cg,cn
+HOST-SUFFIX,jsnx.net,cn
 HOST-SUFFIX,d.design,cn
 HOST-SUFFIX,d00.net,cn
 HOST-SUFFIX,d03jd.com,cn
@@ -37218,7 +37218,7 @@ HOST-SUFFIX,geekcar.net,cn
 HOST-SUFFIX,geekclo.com,cn
 HOST-SUFFIX,geekdaxue.co,cn
 HOST-SUFFIX,geekdive.com,cn
-HOST-SUFFIX,jsnx.net,cn
+HOST-SUFFIX,geekefu.com,cn
 HOST-SUFFIX,geekercloud.com,cn
 HOST-SUFFIX,geekerconsulting.com,cn
 HOST-SUFFIX,geekerhua.com,cn
@@ -37665,7 +37665,7 @@ HOST-SUFFIX,gfnormal08an.com,cn
 HOST-SUFFIX,gfnormal08ao.com,cn
 HOST-SUFFIX,gfnormal08ap.com,cn
 HOST-SUFFIX,gfnormal08aq.com,cn
-HOST-SUFFIX,gfnormal08ar.com,cn
+HOST-SUFFIX,jsntg.com,cn
 HOST-SUFFIX,gfnormal08as.com,cn
 HOST-SUFFIX,gfnormal08at.com,cn
 HOST-SUFFIX,gfnormal09aa.com,cn
@@ -51326,6 +51326,8 @@ HOST-SUFFIX,iot101.com,cn
 HOST-SUFFIX,iot688.com,cn
 HOST-SUFFIX,iot889.com,cn
 HOST-SUFFIX,iotachem.com,cn
+HOST-SUFFIX,iotaskyt.com,cn
+HOST-SUFFIX,iotaskyty.com,cn
 HOST-SUFFIX,iotbay.com,cn
 HOST-SUFFIX,iotfair.net,cn
 HOST-SUFFIX,iotku.com,cn
@@ -54722,7 +54724,7 @@ HOST-SUFFIX,jlc-cnc.com,cn
 HOST-SUFFIX,jlc-code.com,cn
 HOST-SUFFIX,jlc-dfm.com,cn
 HOST-SUFFIX,jlc-drm.com,cn
-HOST-SUFFIX,jlc-ecad.com,cn
+HOST-SUFFIX,jsntgas.com,cn
 HOST-SUFFIX,jlc-erp.com,cn
 HOST-SUFFIX,jlc-fpc.com,cn
 HOST-SUFFIX,jlc-gw.com,cn
@@ -55675,9 +55677,9 @@ HOST-SUFFIX,jsnjck.com,cn
 HOST-SUFFIX,jsnjjg.com,cn
 HOST-SUFFIX,jsnkmy.com,cn
 HOST-SUFFIX,jsnol.com,cn
-HOST-SUFFIX,b612.me,cn
+HOST-SUFFIX,gfnormal08ar.com,cn
 HOST-SUFFIX,028hema.com,cn
-HOST-SUFFIX,geekefu.com,cn
+HOST-SUFFIX,d.cg,cn
 HOST-SUFFIX,jsnxs.com,cn
 HOST-SUFFIX,jsnydefy.com,cn
 HOST-SUFFIX,jsnydsfy.com,cn
@@ -87223,6 +87225,7 @@ HOST-SUFFIX,tbapp.com,cn
 HOST-SUFFIX,tbbbk.com,cn
 HOST-SUFFIX,tbcache.com,cn
 HOST-SUFFIX,tbcdn.com,cn
+HOST-SUFFIX,tbdesk.com,cn
 HOST-SUFFIX,tbh5.com,cn
 HOST-SUFFIX,tbhcc.com,cn
 HOST-SUFFIX,tbhelper.com,cn
@@ -102659,7 +102662,7 @@ HOST-SUFFIX,yftxt.com,cn
 HOST-SUFFIX,yfty88.com,cn
 HOST-SUFFIX,yfvb.com,cn
 HOST-SUFFIX,yfway.com,cn
-HOST-SUFFIX,jsntgas.com,cn
+HOST-SUFFIX,yfwnm.com,cn
 HOST-SUFFIX,yfwpt.vip,cn
 HOST-SUFFIX,yfycrc.com,cn
 HOST-SUFFIX,yfycyboil.com,cn
