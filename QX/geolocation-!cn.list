@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/geolocation-!cn.list
 # HOST: 748
-# HOST-SUFFIX: 26249
-# TOTAL: 26997
+# HOST-SUFFIX: 26250
+# TOTAL: 26998
 HOST,1password.drift.click,geolocation-!cn
 HOST,3dns-1.adobe.com,geolocation-!cn
 HOST,3dns-2.adobe.com,geolocation-!cn
@@ -823,7 +823,7 @@ HOST-SUFFIX,apple,geolocation-!cn
 HOST-SUFFIX,android,geolocation-!cn
 HOST-SUFFIX,amazon,geolocation-!cn
 HOST-SUFFIX,jfengtime.com,geolocation-!cn
-HOST-SUFFIX,sqool.net,geolocation-!cn
+HOST-SUFFIX,artstation.com,geolocation-!cn
 HOST-SUFFIX,12vpn.com,geolocation-!cn
 HOST-SUFFIX,12vpn.net,geolocation-!cn
 HOST-SUFFIX,1337x.gd,geolocation-!cn
@@ -3031,7 +3031,7 @@ HOST-SUFFIX,arteldoc.tv,geolocation-!cn
 HOST-SUFFIX,artixlinux.org,geolocation-!cn
 HOST-SUFFIX,artnudegalleries.com,geolocation-!cn
 HOST-SUFFIX,artoferotica.info,geolocation-!cn
-HOST-SUFFIX,artstation.com,geolocation-!cn
+HOST-SUFFIX,jiuse.io,geolocation-!cn
 HOST-SUFFIX,artstationmedia.com,geolocation-!cn
 HOST-SUFFIX,artstor.org,geolocation-!cn
 HOST-SUFFIX,artstorm.com,geolocation-!cn
@@ -5051,7 +5051,7 @@ HOST-SUFFIX,bnbstatic.com,geolocation-!cn
 HOST-SUFFIX,bnef.com,geolocation-!cn
 HOST-SUFFIX,young-webcam.net,geolocation-!cn
 HOST-SUFFIX,bnn.co,geolocation-!cn
-HOST-SUFFIX,jiuse6666.com,geolocation-!cn
+HOST-SUFFIX,bnrmetal.com,geolocation-!cn
 HOST-SUFFIX,bntrace.com,geolocation-!cn
 HOST-SUFFIX,bnxz.net,geolocation-!cn
 HOST-SUFFIX,boardreader.com,geolocation-!cn
@@ -13910,9 +13910,9 @@ HOST-SUFFIX,jitouch.com,geolocation-!cn
 HOST-SUFFIX,jitsi.org,geolocation-!cn
 HOST-SUFFIX,jiuse.ai,geolocation-!cn
 HOST-SUFFIX,xboxone.co,geolocation-!cn
-HOST-SUFFIX,tinkoff-edu.ru,geolocation-!cn
+HOST-SUFFIX,lianhonghong.com,geolocation-!cn
 HOST-SUFFIX,12joursdecadeauxdeitunes.com,geolocation-!cn
-HOST-SUFFIX,bnrmetal.com,geolocation-!cn
+HOST-SUFFIX,weldberres.ru,geolocation-!cn
 HOST-SUFFIX,jiuse821.com,geolocation-!cn
 HOST-SUFFIX,jiuse822.com,geolocation-!cn
 HOST-SUFFIX,jiuse823.com,geolocation-!cn
@@ -14661,7 +14661,7 @@ HOST-SUFFIX,lhakar.org,geolocation-!cn
 HOST-SUFFIX,li.taipei,geolocation-!cn
 HOST-SUFFIX,liangyou.net,geolocation-!cn
 HOST-SUFFIX,liangzhichuanmei.com,geolocation-!cn
-HOST-SUFFIX,lianhonghong.com,geolocation-!cn
+HOST-SUFFIX,jiuse.icu,geolocation-!cn
 HOST-SUFFIX,lianjiajr.net,geolocation-!cn
 HOST-SUFFIX,liaowangxizang.net,geolocation-!cn
 HOST-SUFFIX,wwwxoom.com,geolocation-!cn
@@ -19584,7 +19584,7 @@ HOST-SUFFIX,proxifier.com,geolocation-!cn
 HOST-SUFFIX,proxomitron.info,geolocation-!cn
 HOST-SUFFIX,proxpn.com,geolocation-!cn
 HOST-SUFFIX,proxyadult.org,geolocation-!cn
-HOST-SUFFIX,weldberres.ru,geolocation-!cn
+HOST-SUFFIX,jiuse6666.com,geolocation-!cn
 HOST-SUFFIX,proxyrarbg.org,geolocation-!cn
 HOST-SUFFIX,proxz.com,geolocation-!cn
 HOST-SUFFIX,proyectoclubes.com,geolocation-!cn
@@ -20468,6 +20468,7 @@ HOST-SUFFIX,rutracker.me,geolocation-!cn
 HOST-SUFFIX,rutracker.net,geolocation-!cn
 HOST-SUFFIX,rutracker.nl,geolocation-!cn
 HOST-SUFFIX,rutracker.org,geolocation-!cn
+HOST-SUFFIX,rutracker.wiki,geolocation-!cn
 HOST-SUFFIX,rutrk.org,geolocation-!cn
 HOST-SUFFIX,rutube.ru,geolocation-!cn
 HOST-SUFFIX,rutube.sport,geolocation-!cn
@@ -21847,7 +21848,7 @@ HOST-SUFFIX,spyjinx.com,geolocation-!cn
 HOST-SUFFIX,spyrothedragon.com,geolocation-!cn
 HOST-SUFFIX,sqlite.org,geolocation-!cn
 HOST-SUFFIX,sqlserveronlinux.com,geolocation-!cn
-HOST-SUFFIX,jiuse.io,geolocation-!cn
+HOST-SUFFIX,sqool.net,geolocation-!cn
 HOST-SUFFIX,squ1.com,geolocation-!cn
 HOST-SUFFIX,squadbusters.com,geolocation-!cn
 HOST-SUFFIX,squarecapital.com,geolocation-!cn
@@ -23044,7 +23045,7 @@ HOST-SUFFIX,tinkerboxapp.com,geolocation-!cn
 HOST-SUFFIX,tinkercad.com,geolocation-!cn
 HOST-SUFFIX,tinkerentertainment.com,geolocation-!cn
 HOST-SUFFIX,tinkerplay.net,geolocation-!cn
-HOST-SUFFIX,jiuse.icu,geolocation-!cn
+HOST-SUFFIX,tinkoff-edu.ru,geolocation-!cn
 HOST-SUFFIX,tinkoff-group.com,geolocation-!cn
 HOST-SUFFIX,tinkoff.ai,geolocation-!cn
 HOST-SUFFIX,tinkoff.ru,geolocation-!cn
