@@ -1,8 +1,8 @@
 # NAME: cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/cn.list
 # HOST: 0
-# HOST-SUFFIX: 111304
-# TOTAL: 111304
+# HOST-SUFFIX: 111305
+# TOTAL: 111305
 HOST-SUFFIX,alibaba,cn
 HOST-SUFFIX,yun,cn
 HOST-SUFFIX,xn--zfr164b,cn
@@ -56,7 +56,7 @@ HOST-SUFFIX,baidu,cn
 HOST-SUFFIX,anquan,cn
 HOST-SUFFIX,alipay,cn
 HOST-SUFFIX,jsgjksl.com,cn
-HOST-SUFFIX,comicer.com,cn
+HOST-SUFFIX,scjcdl.com,cn
 HOST-SUFFIX,028kuaidai.com,cn
 HOST-SUFFIX,028ltzx.com,cn
 HOST-SUFFIX,028office.com,cn
@@ -6680,7 +6680,7 @@ HOST-SUFFIX,66rjz.com,cn
 HOST-SUFFIX,66rom.com,cn
 HOST-SUFFIX,66rou.com,cn
 HOST-SUFFIX,66rpg.com,cn
-HOST-SUFFIX,jsntg.com,cn
+HOST-SUFFIX,66ruian.com,cn
 HOST-SUFFIX,66shouyou.com,cn
 HOST-SUFFIX,66sj.com,cn
 HOST-SUFFIX,66sy.com,cn
@@ -24212,7 +24212,7 @@ HOST-SUFFIX,comflowy.com,cn
 HOST-SUFFIX,comfylink.com,cn
 HOST-SUFFIX,comiai.com,cn
 HOST-SUFFIX,comicdd.com,cn
-HOST-SUFFIX,jsnol.com,cn
+HOST-SUFFIX,comicer.com,cn
 HOST-SUFFIX,comicfans.net,cn
 HOST-SUFFIX,comicv.com,cn
 HOST-SUFFIX,comicyu.com,cn
@@ -34871,7 +34871,7 @@ HOST-SUFFIX,foundertech.com,cn
 HOST-SUFFIX,foundertype.com,cn
 HOST-SUFFIX,founpad.com,cn
 HOST-SUFFIX,four-faith.com,cn
-HOST-SUFFIX,fourco-inc.com,cn
+HOST-SUFFIX,jsnx.net,cn
 HOST-SUFFIX,fourfaithwater.com,cn
 HOST-SUFFIX,fovmy.com,cn
 HOST-SUFFIX,fow.ink,cn
@@ -55679,11 +55679,11 @@ HOST-SUFFIX,jsnewexpo.com,cn
 HOST-SUFFIX,jsningyi.com,cn
 HOST-SUFFIX,jsnjck.com,cn
 HOST-SUFFIX,jsnjjg.com,cn
-HOST-SUFFIX,winjoinit.com,cn
+HOST-SUFFIX,jsnkmy.com,cn
+HOST-SUFFIX,jsnol.com,cn
+HOST-SUFFIX,yjldp.com,cn
 HOST-SUFFIX,028hema.com,cn
-HOST-SUFFIX,66ruian.com,cn
-HOST-SUFFIX,jsntgas.com,cn
-HOST-SUFFIX,jsnx.net,cn
+HOST-SUFFIX,fourco-inc.com,cn
 HOST-SUFFIX,jsnxs.com,cn
 HOST-SUFFIX,jsnydefy.com,cn
 HOST-SUFFIX,jsnydsfy.com,cn
@@ -74240,6 +74240,7 @@ HOST-SUFFIX,qianvisa.com,cn
 HOST-SUFFIX,qianwa.com,cn
 HOST-SUFFIX,qianwanku.com,cn
 HOST-SUFFIX,qianwen.com,cn
+HOST-SUFFIX,qianwenai.com,cn
 HOST-SUFFIX,qianxiangbank.com,cn
 HOST-SUFFIX,qianxibj.net,cn
 HOST-SUFFIX,qianximiye.com,cn
@@ -78799,7 +78800,7 @@ HOST-SUFFIX,scixh.com,cn
 HOST-SUFFIX,sciyard.com,cn
 HOST-SUFFIX,sciyon.com,cn
 HOST-SUFFIX,scjcce.com,cn
-HOST-SUFFIX,scjcdl.com,cn
+HOST-SUFFIX,jsntgas.com,cn
 HOST-SUFFIX,scjhg.com,cn
 HOST-SUFFIX,scjhhb.com,cn
 HOST-SUFFIX,scjhyq.com,cn
@@ -95598,7 +95599,7 @@ HOST-SUFFIX,winhealthgroups.com,cn
 HOST-SUFFIX,winhlb.com,cn
 HOST-SUFFIX,winhong.com,cn
 HOST-SUFFIX,winicssec.com,cn
-HOST-SUFFIX,jsnkmy.com,cn
+HOST-SUFFIX,winjoinit.com,cn
 HOST-SUFFIX,winkingworks.com,cn
 HOST-SUFFIX,winkkie.com,cn
 HOST-SUFFIX,winksi.com,cn
@@ -103720,7 +103721,7 @@ HOST-SUFFIX,yjiyun.com,cn
 HOST-SUFFIX,yjjsjt.com,cn
 HOST-SUFFIX,yjk.com,cn
 HOST-SUFFIX,yjk.im,cn
-HOST-SUFFIX,yjldp.com,cn
+HOST-SUFFIX,jsntg.com,cn
 HOST-SUFFIX,yjlhq.com,cn
 HOST-SUFFIX,yjlin4.com,cn
 HOST-SUFFIX,yjlink.cc,cn
