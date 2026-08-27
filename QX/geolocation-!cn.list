@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/geolocation-!cn.list
 # HOST: 748
-# HOST-SUFFIX: 26273
-# TOTAL: 27021
+# HOST-SUFFIX: 26275
+# TOTAL: 27023
 HOST,1password.drift.click,geolocation-!cn
 HOST,3dns-1.adobe.com,geolocation-!cn
 HOST,3dns-2.adobe.com,geolocation-!cn
@@ -822,8 +822,8 @@ HOST-SUFFIX,aws,geolocation-!cn
 HOST-SUFFIX,apple,geolocation-!cn
 HOST-SUFFIX,android,geolocation-!cn
 HOST-SUFFIX,amazon,geolocation-!cn
-HOST-SUFFIX,jfrog.com,geolocation-!cn
-HOST-SUFFIX,karta-banka-rf.ru,geolocation-!cn
+HOST-SUFFIX,jfn.su,geolocation-!cn
+HOST-SUFFIX,easyanticheat.net,geolocation-!cn
 HOST-SUFFIX,12vpn.com,geolocation-!cn
 HOST-SUFFIX,12vpn.net,geolocation-!cn
 HOST-SUFFIX,1337x.gd,geolocation-!cn
@@ -3386,7 +3386,7 @@ HOST-SUFFIX,av11.org,geolocation-!cn
 HOST-SUFFIX,av1688.cc,geolocation-!cn
 HOST-SUFFIX,av369.net,geolocation-!cn
 HOST-SUFFIX,av4.us,geolocation-!cn
-HOST-SUFFIX,jiuse823.com,geolocation-!cn
+HOST-SUFFIX,av69.tv,geolocation-!cn
 HOST-SUFFIX,av69.us,geolocation-!cn
 HOST-SUFFIX,av6k.com,geolocation-!cn
 HOST-SUFFIX,av6k.vip,geolocation-!cn
@@ -5006,7 +5006,7 @@ HOST-SUFFIX,bmwmagazine.de,geolocation-!cn
 HOST-SUFFIX,bmwmass.com,geolocation-!cn
 HOST-SUFFIX,bmwmass.net,geolocation-!cn
 HOST-SUFFIX,bmwmc.net,geolocation-!cn
-HOST-SUFFIX,bmwmontreal.ca,geolocation-!cn
+HOST-SUFFIX,jiuse6666.com,geolocation-!cn
 HOST-SUFFIX,bmwmotorcycles.com,geolocation-!cn
 HOST-SUFFIX,bmwmotorcycleusa.com,geolocation-!cn
 HOST-SUFFIX,younger19.com,geolocation-!cn
@@ -7045,7 +7045,7 @@ HOST-SUFFIX,dditsadn.com,geolocation-!cn
 HOST-SUFFIX,dditscdn.com,geolocation-!cn
 HOST-SUFFIX,de-rt.com,geolocation-!cn
 HOST-SUFFIX,de-rt.org,geolocation-!cn
-HOST-SUFFIX,de-rtnews.com,geolocation-!cn
+HOST-SUFFIX,jiuse822.com,geolocation-!cn
 HOST-SUFFIX,de-rtnews.net,geolocation-!cn
 HOST-SUFFIX,de1lib.org,geolocation-!cn
 HOST-SUFFIX,deadhouse.org,geolocation-!cn
@@ -8174,7 +8174,7 @@ HOST-SUFFIX,eastturkistangovernmentinexile.us,geolocation-!cn
 HOST-SUFFIX,xxxpornhd.pro,geolocation-!cn
 HOST-SUFFIX,easy-jtag.com,geolocation-!cn
 HOST-SUFFIX,easy.ac,geolocation-!cn
-HOST-SUFFIX,easyanticheat.net,geolocation-!cn
+HOST-SUFFIX,jiuse821.com,geolocation-!cn
 HOST-SUFFIX,easylist.to,geolocation-!cn
 HOST-SUFFIX,easynike.com,geolocation-!cn
 HOST-SUFFIX,easypic.com,geolocation-!cn
@@ -11368,6 +11368,7 @@ HOST-SUFFIX,xn--pssu7ci2j23mp9ny48b.hk,geolocation-!cn
 HOST-SUFFIX,h-webtoon.com,geolocation-!cn
 HOST-SUFFIX,h0930.com,geolocation-!cn
 HOST-SUFFIX,h18ani1.vip,geolocation-!cn
+HOST-SUFFIX,h264.io,geolocation-!cn
 HOST-SUFFIX,h2o.ai,geolocation-!cn
 HOST-SUFFIX,h2porn.com,geolocation-!cn
 HOST-SUFFIX,h528.com,geolocation-!cn
@@ -13886,8 +13887,8 @@ HOST-SUFFIX,jetfuelapps.com,geolocation-!cn
 HOST-SUFFIX,jex.com,geolocation-!cn
 HOST-SUFFIX,xboxone.co,geolocation-!cn
 HOST-SUFFIX,jfengtime.com,geolocation-!cn
-HOST-SUFFIX,jfn.su,geolocation-!cn
 HOST-SUFFIX,000webhost.com,geolocation-!cn
+HOST-SUFFIX,jfrog.com,geolocation-!cn
 HOST-SUFFIX,jfrog.org,geolocation-!cn
 HOST-SUFFIX,jgg18.xyz,geolocation-!cn
 HOST-SUFFIX,jgoodies.com,geolocation-!cn
@@ -13921,10 +13922,10 @@ HOST-SUFFIX,jiuse.ai,geolocation-!cn
 HOST-SUFFIX,xboxgamestudios.com,geolocation-!cn
 HOST-SUFFIX,jiuse.icu,geolocation-!cn
 HOST-SUFFIX,jiuse.io,geolocation-!cn
-HOST-SUFFIX,jiuse6666.com,geolocation-!cn
-HOST-SUFFIX,smpte.org,geolocation-!cn
+HOST-SUFFIX,bmwmontreal.ca,geolocation-!cn
 HOST-SUFFIX,12joursdecadeauxdeitunes.com,geolocation-!cn
-HOST-SUFFIX,av69.tv,geolocation-!cn
+HOST-SUFFIX,de-rtnews.com,geolocation-!cn
+HOST-SUFFIX,jiuse823.com,geolocation-!cn
 HOST-SUFFIX,jivara.global,geolocation-!cn
 HOST-SUFFIX,jivo.chat,geolocation-!cn
 HOST-SUFFIX,jivo.ru,geolocation-!cn
@@ -14187,7 +14188,7 @@ HOST-SUFFIX,karinahart.com,geolocation-!cn
 HOST-SUFFIX,karing.app,geolocation-!cn
 HOST-SUFFIX,karlajames.com,geolocation-!cn
 HOST-SUFFIX,karmahelp.ru,geolocation-!cn
-HOST-SUFFIX,jiuse822.com,geolocation-!cn
+HOST-SUFFIX,karta-banka-rf.ru,geolocation-!cn
 HOST-SUFFIX,karupsha.com,geolocation-!cn
 HOST-SUFFIX,karupspc.com,geolocation-!cn
 HOST-SUFFIX,kaspersky-labs.com,geolocation-!cn
@@ -17218,6 +17219,7 @@ HOST-SUFFIX,nftstatic.com,geolocation-!cn
 HOST-SUFFIX,nftstorage.link,geolocation-!cn
 HOST-SUFFIX,nga.mil,geolocation-!cn
 HOST-SUFFIX,ngeo.com,geolocation-!cn
+HOST-SUFFIX,ngfiles.com,geolocation-!cn
 HOST-SUFFIX,nginx.com,geolocation-!cn
 HOST-SUFFIX,nginx.org,geolocation-!cn
 HOST-SUFFIX,nginxconfig.io,geolocation-!cn
@@ -21516,7 +21518,7 @@ HOST-SUFFIX,smn.news,geolocation-!cn
 HOST-SUFFIX,smokinmovies.com,geolocation-!cn
 HOST-SUFFIX,smotreshka.tv,geolocation-!cn
 HOST-SUFFIX,smplace.com,geolocation-!cn
-HOST-SUFFIX,jiuse821.com,geolocation-!cn
+HOST-SUFFIX,smpte.org,geolocation-!cn
 HOST-SUFFIX,smtb.jp,geolocation-!cn
 HOST-SUFFIX,smutcam.com,geolocation-!cn
 HOST-SUFFIX,smutcams.com,geolocation-!cn
