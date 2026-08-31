@@ -1,8 +1,8 @@
 # NAME: category-ip-geo-detect
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-ip-geo-detect.list
 # HOST: 10
-# HOST-SUFFIX: 222
-# TOTAL: 232
+# HOST-SUFFIX: 224
+# TOTAL: 234
 HOST,checkip.amazonaws.com,category-ip-geo-detect
 HOST,checkip.dyndns.org,category-ip-geo-detect
 HOST,checkip.dyn.com,category-ip-geo-detect
@@ -13,14 +13,15 @@ HOST,ipv4-check-perf.radar.cloudflare.com,category-ip-geo-detect
 HOST,ipv6-check-perf.radar.cloudflare.com,category-ip-geo-detect
 HOST,myip.dnsomatic.com,category-ip-geo-detect
 HOST,whatismyip.akamai.com,category-ip-geo-detect
-HOST-SUFFIX,maxmind.com,category-ip-geo-detect
-HOST-SUFFIX,ip2ruscity.com,category-ip-geo-detect
+HOST-SUFFIX,l2.io,category-ip-geo-detect
+HOST-SUFFIX,whoer.net,category-ip-geo-detect
 HOST-SUFFIX,2ip.ua,category-ip-geo-detect
 HOST-SUFFIX,51degrees.com,category-ip-geo-detect
 HOST-SUFFIX,abstractapi.com,category-ip-geo-detect
 HOST-SUFFIX,addr.tools,category-ip-geo-detect
 HOST-SUFFIX,apiip.net,category-ip-geo-detect
 HOST-SUFFIX,apivoid.com,category-ip-geo-detect
+HOST-SUFFIX,bgp.tools,category-ip-geo-detect
 HOST-SUFFIX,bigdatacloud.net,category-ip-geo-detect
 HOST-SUFFIX,browserleaks.com,category-ip-geo-detect
 HOST-SUFFIX,check-host.net,category-ip-geo-detect
@@ -36,7 +37,7 @@ HOST-SUFFIX,db-ip.com,category-ip-geo-detect
 HOST-SUFFIX,dnsleaktest.com,category-ip-geo-detect
 HOST-SUFFIX,extreme-ip-lookup.com,category-ip-geo-detect
 HOST-SUFFIX,find-my-ip.com,category-ip-geo-detect
-HOST-SUFFIX,jsonip.com,category-ip-geo-detect
+HOST-SUFFIX,find-my-ip.net,category-ip-geo-detect
 HOST-SUFFIX,findip.net,category-ip-geo-detect
 HOST-SUFFIX,flagfox.net,category-ip-geo-detect
 HOST-SUFFIX,fraudguard.io,category-ip-geo-detect
@@ -69,12 +70,12 @@ HOST-SUFFIX,ip-api.io,category-ip-geo-detect
 HOST-SUFFIX,ip-api.ru,category-ip-geo-detect
 HOST-SUFFIX,ip-check.info,category-ip-geo-detect
 HOST-SUFFIX,ip-score.com,category-ip-geo-detect
-HOST-SUFFIX,ip.me,category-ip-geo-detect
+HOST-SUFFIX,mon-ip.com,category-ip-geo-detect
 HOST-SUFFIX,ip.sb,category-ip-geo-detect
 HOST-SUFFIX,ip2c.org,category-ip-geo-detect
 HOST-SUFFIX,ip2location.com,category-ip-geo-detect
 HOST-SUFFIX,ip2location.io,category-ip-geo-detect
-HOST-SUFFIX,l2.io,category-ip-geo-detect
+HOST-SUFFIX,ip2ruscity.com,category-ip-geo-detect
 HOST-SUFFIX,ip4.me,category-ip-geo-detect
 HOST-SUFFIX,ip6.me,category-ip-geo-detect
 HOST-SUFFIX,ip6only.me,category-ip-geo-detect
@@ -84,7 +85,7 @@ HOST-SUFFIX,ipaddress.com,category-ip-geo-detect
 HOST-SUFFIX,ipaddress.my,category-ip-geo-detect
 HOST-SUFFIX,ipaddress.sh,category-ip-geo-detect
 HOST-SUFFIX,ipaddress.to,category-ip-geo-detect
-HOST-SUFFIX,2ip.io,category-ip-geo-detect
+HOST-SUFFIX,ipapi.co,category-ip-geo-detect
 HOST-SUFFIX,ipapi.com,category-ip-geo-detect
 HOST-SUFFIX,ipapi.is,category-ip-geo-detect
 HOST-SUFFIX,ipbase.com,category-ip-geo-detect
@@ -119,10 +120,10 @@ HOST-SUFFIX,ipverify.com,category-ip-geo-detect
 HOST-SUFFIX,ipwho.is,category-ip-geo-detect
 HOST-SUFFIX,ipwhois.io,category-ip-geo-detect
 HOST-SUFFIX,ipxapi.com,category-ip-geo-detect
-HOST-SUFFIX,find-my-ip.net,category-ip-geo-detect
+HOST-SUFFIX,jsonip.com,category-ip-geo-detect
+HOST-SUFFIX,nodedata.io,category-ip-geo-detect
 HOST-SUFFIX,2ip.ru,category-ip-geo-detect
-HOST-SUFFIX,ipapi.co,category-ip-geo-detect
-HOST-SUFFIX,mon-ip.com,category-ip-geo-detect
+HOST-SUFFIX,ip.me,category-ip-geo-detect
 HOST-SUFFIX,monip.org,category-ip-geo-detect
 HOST-SUFFIX,my-ip.io,category-ip-geo-detect
 HOST-SUFFIX,myexternalip.com,category-ip-geo-detect
@@ -165,7 +166,7 @@ HOST-SUFFIX,myip.wtf,category-ip-geo-detect
 HOST-SUFFIX,myipaddress.com,category-ip-geo-detect
 HOST-SUFFIX,myiplookup.com,category-ip-geo-detect
 HOST-SUFFIX,mylocation.org,category-ip-geo-detect
-HOST-SUFFIX,nodedata.io,category-ip-geo-detect
+HOST-SUFFIX,2ip.io,category-ip-geo-detect
 HOST-SUFFIX,nossl.sh,category-ip-geo-detect
 HOST-SUFFIX,osint.sh,category-ip-geo-detect
 HOST-SUFFIX,proxycheck.io,category-ip-geo-detect
@@ -194,34 +195,35 @@ HOST-SUFFIX,whatismyv6.com,category-ip-geo-detect
 HOST-SUFFIX,whatsmyip.com,category-ip-geo-detect
 HOST-SUFFIX,whatsmyip.org,category-ip-geo-detect
 HOST-SUFFIX,where-am-i.co,category-ip-geo-detect
-HOST-SUFFIX,whoer.net,category-ip-geo-detect
+HOST-SUFFIX,maxmind.com,category-ip-geo-detect
 HOST-SUFFIX,whoerip.com,category-ip-geo-detect
 HOST-SUFFIX,whoisxmlapi.com,category-ip-geo-detect
 HOST-SUFFIX,wieistmeineip.de,category-ip-geo-detect
 HOST-SUFFIX,wtfismyip.com,category-ip-geo-detect
 HOST-SUFFIX,ipv6ready.me,category-ip-geo-detect
 HOST-SUFFIX,test-ipv6.cl,category-ip-geo-detect
-HOST-SUFFIX,test-ipv6.com,category-ip-geo-detect
-HOST-SUFFIX,test-ipv6.cz,category-ip-geo-detect
 HOST-SUFFIX,ipip.net,category-ip-geo-detect
 HOST-SUFFIX,testipv6.de,category-ip-geo-detect
 HOST-SUFFIX,test-ipv6.se,category-ip-geo-detect
+HOST-SUFFIX,test-ipv6.com,category-ip-geo-detect
 HOST-SUFFIX,test-ipv6.run,category-ip-geo-detect
 HOST-SUFFIX,test-ipv6.nl,category-ip-geo-detect
 HOST-SUFFIX,test-ipv6.jp,category-ip-geo-detect
-HOST-SUFFIX,ip.mail.ru,category-ip-geo-detect
+HOST-SUFFIX,test-ipv6.cz,category-ip-geo-detect
+HOST-SUFFIX,ip.hetzner.com,category-ip-geo-detect
+HOST-SUFFIX,checkip.com.vn,category-ip-geo-detect
+HOST-SUFFIX,bgp.he.net,category-ip-geo-detect
 HOST-SUFFIX,test-ipv6.noroutetohost.net,category-ip-geo-detect
 HOST-SUFFIX,test-ipv6.roedu.net,category-ip-geo-detect
-HOST-SUFFIX,checkip.com.vn,category-ip-geo-detect
 HOST-SUFFIX,test-ipv6.arauc.br,category-ip-geo-detect
-HOST-SUFFIX,test.version6.ru,category-ip-geo-detect
 HOST-SUFFIX,test-ipv6.alpinedc.ch,category-ip-geo-detect
-HOST-SUFFIX,ipv6-internet.yandex.net,category-ip-geo-detect
+HOST-SUFFIX,test.version6.ru,category-ip-geo-detect
+HOST-SUFFIX,ip.mail.ru,category-ip-geo-detect
 HOST-SUFFIX,test-ipv6.fratec.net,category-ip-geo-detect
+HOST-SUFFIX,ipv6-internet.yandex.net,category-ip-geo-detect
+HOST-SUFFIX,ip.nic.ru,category-ip-geo-detect
 HOST-SUFFIX,ipv4-internet.yandex.net,category-ip-geo-detect
 HOST-SUFFIX,ip.pe.kr,category-ip-geo-detect
-HOST-SUFFIX,ip.hetzner.com,category-ip-geo-detect
-HOST-SUFFIX,ip.nic.ru,category-ip-geo-detect
 HOST-SUFFIX,ip.tyk.nu,category-ip-geo-detect
 HOST-SUFFIX,ipgeo.vercel.app,category-ip-geo-detect
 HOST-SUFFIX,geoip.noc.gov.ru,category-ip-geo-detect
