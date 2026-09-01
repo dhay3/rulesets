@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/geolocation-!cn.list
 # HOST: 748
-# HOST-SUFFIX: 26278
-# TOTAL: 27026
+# HOST-SUFFIX: 26285
+# TOTAL: 27033
 HOST,1password.drift.click,geolocation-!cn
 HOST,3dns-1.adobe.com,geolocation-!cn
 HOST,3dns-2.adobe.com,geolocation-!cn
@@ -822,8 +822,8 @@ HOST-SUFFIX,aws,geolocation-!cn
 HOST-SUFFIX,apple,geolocation-!cn
 HOST-SUFFIX,android,geolocation-!cn
 HOST-SUFFIX,amazon,geolocation-!cn
-HOST-SUFFIX,jfrog.com,geolocation-!cn
-HOST-SUFFIX,usercontent.dev,geolocation-!cn
+HOST-SUFFIX,jfrog.org,geolocation-!cn
+HOST-SUFFIX,bang-movies.com,geolocation-!cn
 HOST-SUFFIX,12vpn.com,geolocation-!cn
 HOST-SUFFIX,12vpn.net,geolocation-!cn
 HOST-SUFFIX,1337x.gd,geolocation-!cn
@@ -2844,7 +2844,7 @@ HOST-SUFFIX,appleone.community,geolocation-!cn
 HOST-SUFFIX,appleone.film,geolocation-!cn
 HOST-SUFFIX,appleone.guide,geolocation-!cn
 HOST-SUFFIX,appleone.host,geolocation-!cn
-HOST-SUFFIX,jiuse823.com,geolocation-!cn
+HOST-SUFFIX,appleone.space,geolocation-!cn
 HOST-SUFFIX,appleone.tech,geolocation-!cn
 HOST-SUFFIX,appleone.website,geolocation-!cn
 HOST-SUFFIX,appleonline.com,geolocation-!cn
@@ -3661,7 +3661,7 @@ HOST-SUFFIX,bandgirlz.com,geolocation-!cn
 HOST-SUFFIX,bandpage.com,geolocation-!cn
 HOST-SUFFIX,bandwagonhost.com,geolocation-!cn
 HOST-SUFFIX,bang-dream.com,geolocation-!cn
-HOST-SUFFIX,bang-movies.com,geolocation-!cn
+HOST-SUFFIX,jiuse823.com,geolocation-!cn
 HOST-SUFFIX,bangbros.com,geolocation-!cn
 HOST-SUFFIX,bangbrosnetwork.com,geolocation-!cn
 HOST-SUFFIX,bangchen.net,geolocation-!cn
@@ -4449,6 +4449,7 @@ HOST-SUFFIX,blackamateursvideos.com,geolocation-!cn
 HOST-SUFFIX,blackandstacked.com,geolocation-!cn
 HOST-SUFFIX,blackboxgames.com,geolocation-!cn
 HOST-SUFFIX,blacked.com,geolocation-!cn
+HOST-SUFFIX,blackedraw.com,geolocation-!cn
 HOST-SUFFIX,blackfridaydrebeatsnew.com,geolocation-!cn
 HOST-SUFFIX,blackfridaydrebeatsshop.com,geolocation-!cn
 HOST-SUFFIX,blackhomeporn.com,geolocation-!cn
@@ -10351,6 +10352,8 @@ HOST-SUFFIX,gastrointestinalexam.com,geolocation-!cn
 HOST-SUFFIX,gate.cc,geolocation-!cn
 HOST-SUFFIX,gate.com,geolocation-!cn
 HOST-SUFFIX,gate.io,geolocation-!cn
+HOST-SUFFIX,gate.tv,geolocation-!cn
+HOST-SUFFIX,gateapi.io,geolocation-!cn
 HOST-SUFFIX,gatecoin.com,geolocation-!cn
 HOST-SUFFIX,gatedata.org,geolocation-!cn
 HOST-SUFFIX,gateimg.com,geolocation-!cn
@@ -13385,7 +13388,7 @@ HOST-SUFFIX,ipadair.tw,geolocation-!cn
 HOST-SUFFIX,ipadaustralia.com,geolocation-!cn
 HOST-SUFFIX,ipadmini.cm,geolocation-!cn
 HOST-SUFFIX,xfockers.com,geolocation-!cn
-HOST-SUFFIX,jiuse821.com,geolocation-!cn
+HOST-SUFFIX,ipadmini.lk,geolocation-!cn
 HOST-SUFFIX,ipadpro.buzz,geolocation-!cn
 HOST-SUFFIX,ipdefenseforum.com,geolocation-!cn
 HOST-SUFFIX,ipfire.org,geolocation-!cn
@@ -13889,8 +13892,8 @@ HOST-SUFFIX,jex.com,geolocation-!cn
 HOST-SUFFIX,xboxone.co,geolocation-!cn
 HOST-SUFFIX,jfengtime.com,geolocation-!cn
 HOST-SUFFIX,jfn.su,geolocation-!cn
+HOST-SUFFIX,jfrog.com,geolocation-!cn
 HOST-SUFFIX,000webhost.com,geolocation-!cn
-HOST-SUFFIX,jfrog.org,geolocation-!cn
 HOST-SUFFIX,jgg18.xyz,geolocation-!cn
 HOST-SUFFIX,jgoodies.com,geolocation-!cn
 HOST-SUFFIX,jhelab.org,geolocation-!cn
@@ -13924,10 +13927,10 @@ HOST-SUFFIX,xboxgamestudios.com,geolocation-!cn
 HOST-SUFFIX,jiuse.icu,geolocation-!cn
 HOST-SUFFIX,jiuse.io,geolocation-!cn
 HOST-SUFFIX,jiuse6666.com,geolocation-!cn
-HOST-SUFFIX,ipadmini.lk,geolocation-!cn
+HOST-SUFFIX,jiuse821.com,geolocation-!cn
+HOST-SUFFIX,wix.com,geolocation-!cn
 HOST-SUFFIX,12joursdecadeauxdeitunes.com,geolocation-!cn
-HOST-SUFFIX,appleone.space,geolocation-!cn
-HOST-SUFFIX,jivara.global,geolocation-!cn
+HOST-SUFFIX,npmjs.org,geolocation-!cn
 HOST-SUFFIX,jivo.chat,geolocation-!cn
 HOST-SUFFIX,jivo.ru,geolocation-!cn
 HOST-SUFFIX,xboxgamepass.com,geolocation-!cn
@@ -15838,6 +15841,7 @@ HOST-SUFFIX,milfthreesomes.com,geolocation-!cn
 HOST-SUFFIX,milftube.pro,geolocation-!cn
 HOST-SUFFIX,milftugs.com,geolocation-!cn
 HOST-SUFFIX,milfvr.com,geolocation-!cn
+HOST-SUFFIX,milfy.com,geolocation-!cn
 HOST-SUFFIX,milfzr.com,geolocation-!cn
 HOST-SUFFIX,miliav.com,geolocation-!cn
 HOST-SUFFIX,milkmanbook.com,geolocation-!cn
@@ -16194,7 +16198,7 @@ HOST-SUFFIX,mixi.net,geolocation-!cn
 HOST-SUFFIX,mixmaturesex.com,geolocation-!cn
 HOST-SUFFIX,mixvintagesex.com,geolocation-!cn
 HOST-SUFFIX,mixx.com,geolocation-!cn
-HOST-SUFFIX,wix.com,geolocation-!cn
+HOST-SUFFIX,jiuse822.com,geolocation-!cn
 HOST-SUFFIX,wix-code.com,geolocation-!cn
 HOST-SUFFIX,mizzmona.com,geolocation-!cn
 HOST-SUFFIX,mji.rip,geolocation-!cn
@@ -17587,7 +17591,7 @@ HOST-SUFFIX,nozomi.la,geolocation-!cn
 HOST-SUFFIX,wikileaks.pl,geolocation-!cn
 HOST-SUFFIX,npm.community,geolocation-!cn
 HOST-SUFFIX,npmjs.com,geolocation-!cn
-HOST-SUFFIX,npmjs.org,geolocation-!cn
+HOST-SUFFIX,jivara.global,geolocation-!cn
 HOST-SUFFIX,npnt.me,geolocation-!cn
 HOST-SUFFIX,npr.org,geolocation-!cn
 HOST-SUFFIX,npsboost.com,geolocation-!cn
@@ -21463,6 +21467,7 @@ HOST-SUFFIX,slashdot.org,geolocation-!cn
 HOST-SUFFIX,slashine.onl,geolocation-!cn
 HOST-SUFFIX,slavbank.ru,geolocation-!cn
 HOST-SUFFIX,slavicstar.com,geolocation-!cn
+HOST-SUFFIX,slayed.com,geolocation-!cn
 HOST-SUFFIX,slc.tl,geolocation-!cn
 HOST-SUFFIX,sldolls.com,geolocation-!cn
 HOST-SUFFIX,sleazyfork.org,geolocation-!cn
@@ -23481,6 +23486,7 @@ HOST-SUFFIX,turntable.fm,geolocation-!cn
 HOST-SUFFIX,tusco.ru,geolocation-!cn
 HOST-SUFFIX,tushy.com,geolocation-!cn
 HOST-SUFFIX,tushycash.com,geolocation-!cn
+HOST-SUFFIX,tushyraw.com,geolocation-!cn
 HOST-SUFFIX,tuta.com,geolocation-!cn
 HOST-SUFFIX,tuta.io,geolocation-!cn
 HOST-SUFFIX,tutamail.com,geolocation-!cn
@@ -23847,7 +23853,7 @@ HOST-SUFFIX,useplannr.com,geolocation-!cn
 HOST-SUFFIX,userapi.com,geolocation-!cn
 HOST-SUFFIX,userapi.ru,geolocation-!cn
 HOST-SUFFIX,usercentrics.eu,geolocation-!cn
-HOST-SUFFIX,jiuse822.com,geolocation-!cn
+HOST-SUFFIX,usercontent.dev,geolocation-!cn
 HOST-SUFFIX,userdrive.org,geolocation-!cn
 HOST-SUFFIX,userpxt.io,geolocation-!cn
 HOST-SUFFIX,usersdrive.com,geolocation-!cn
@@ -24463,6 +24469,7 @@ HOST-SUFFIX,vivaldi.com,geolocation-!cn
 HOST-SUFFIX,vivaxnxx.com,geolocation-!cn
 HOST-SUFFIX,vivthomas.com,geolocation-!cn
 HOST-SUFFIX,vixen.com,geolocation-!cn
+HOST-SUFFIX,vixengroup.com,geolocation-!cn
 HOST-SUFFIX,vixvids.to,geolocation-!cn
 HOST-SUFFIX,vjav.com,geolocation-!cn
 HOST-SUFFIX,voachinese.com,geolocation-!cn
