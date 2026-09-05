@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/geolocation-!cn.list
 # HOST: 748
-# HOST-SUFFIX: 26285
-# TOTAL: 27033
+# HOST-SUFFIX: 26286
+# TOTAL: 27034
 HOST,1password.drift.click,geolocation-!cn
 HOST,3dns-1.adobe.com,geolocation-!cn
 HOST,3dns-2.adobe.com,geolocation-!cn
@@ -823,7 +823,7 @@ HOST-SUFFIX,apple,geolocation-!cn
 HOST-SUFFIX,android,geolocation-!cn
 HOST-SUFFIX,amazon,geolocation-!cn
 HOST-SUFFIX,jfrog.org,geolocation-!cn
-HOST-SUFFIX,bang-movies.com,geolocation-!cn
+HOST-SUFFIX,madhomemadeporn.com,geolocation-!cn
 HOST-SUFFIX,12vpn.com,geolocation-!cn
 HOST-SUFFIX,12vpn.net,geolocation-!cn
 HOST-SUFFIX,1337x.gd,geolocation-!cn
@@ -3661,7 +3661,7 @@ HOST-SUFFIX,bandgirlz.com,geolocation-!cn
 HOST-SUFFIX,bandpage.com,geolocation-!cn
 HOST-SUFFIX,bandwagonhost.com,geolocation-!cn
 HOST-SUFFIX,bang-dream.com,geolocation-!cn
-HOST-SUFFIX,jiuse823.com,geolocation-!cn
+HOST-SUFFIX,bang-movies.com,geolocation-!cn
 HOST-SUFFIX,bangbros.com,geolocation-!cn
 HOST-SUFFIX,bangbrosnetwork.com,geolocation-!cn
 HOST-SUFFIX,bangchen.net,geolocation-!cn
@@ -4850,7 +4850,7 @@ HOST-SUFFIX,bmw-worldfinal.com,geolocation-!cn
 HOST-SUFFIX,bmw-yachtsport.com,geolocation-!cn
 HOST-SUFFIX,bmw-yeg.ca,geolocation-!cn
 HOST-SUFFIX,bmw-yemen.com,geolocation-!cn
-HOST-SUFFIX,bmw.am,geolocation-!cn
+HOST-SUFFIX,jivara.global,geolocation-!cn
 HOST-SUFFIX,bmw.at,geolocation-!cn
 HOST-SUFFIX,bmw.az,geolocation-!cn
 HOST-SUFFIX,bmw.ba,geolocation-!cn
@@ -13928,9 +13928,9 @@ HOST-SUFFIX,jiuse.icu,geolocation-!cn
 HOST-SUFFIX,jiuse.io,geolocation-!cn
 HOST-SUFFIX,jiuse6666.com,geolocation-!cn
 HOST-SUFFIX,jiuse821.com,geolocation-!cn
-HOST-SUFFIX,wix.com,geolocation-!cn
+HOST-SUFFIX,needforspeedredline.com,geolocation-!cn
 HOST-SUFFIX,12joursdecadeauxdeitunes.com,geolocation-!cn
-HOST-SUFFIX,npmjs.org,geolocation-!cn
+HOST-SUFFIX,bmw.am,geolocation-!cn
 HOST-SUFFIX,jivo.chat,geolocation-!cn
 HOST-SUFFIX,jivo.ru,geolocation-!cn
 HOST-SUFFIX,xboxgamepass.com,geolocation-!cn
@@ -14778,6 +14778,7 @@ HOST-SUFFIX,linseysworld.com,geolocation-!cn
 HOST-SUFFIX,linux.do,geolocation-!cn
 HOST-SUFFIX,linux.org,geolocation-!cn
 HOST-SUFFIX,wwwmfacebook.com,geolocation-!cn
+HOST-SUFFIX,linux.sb,geolocation-!cn
 HOST-SUFFIX,linuxfoundation.org,geolocation-!cn
 HOST-SUFFIX,linuxfromscratch.org,geolocation-!cn
 HOST-SUFFIX,linuxmint.com,geolocation-!cn
@@ -15114,7 +15115,7 @@ HOST-SUFFIX,madewithcode.com,geolocation-!cn
 HOST-SUFFIX,madewithmaya.com,geolocation-!cn
 HOST-SUFFIX,madewithstudiotools.com,geolocation-!cn
 HOST-SUFFIX,madewithunity.jp,geolocation-!cn
-HOST-SUFFIX,madhomemadeporn.com,geolocation-!cn
+HOST-SUFFIX,jiuse823.com,geolocation-!cn
 HOST-SUFFIX,madonna-av.com,geolocation-!cn
 HOST-SUFFIX,madou.club,geolocation-!cn
 HOST-SUFFIX,madou.la,geolocation-!cn
@@ -16198,7 +16199,7 @@ HOST-SUFFIX,mixi.net,geolocation-!cn
 HOST-SUFFIX,mixmaturesex.com,geolocation-!cn
 HOST-SUFFIX,mixvintagesex.com,geolocation-!cn
 HOST-SUFFIX,mixx.com,geolocation-!cn
-HOST-SUFFIX,jiuse822.com,geolocation-!cn
+HOST-SUFFIX,wix.com,geolocation-!cn
 HOST-SUFFIX,wix-code.com,geolocation-!cn
 HOST-SUFFIX,mizzmona.com,geolocation-!cn
 HOST-SUFFIX,mji.rip,geolocation-!cn
@@ -16992,7 +16993,7 @@ HOST-SUFFIX,needforspeedeliminator.com,geolocation-!cn
 HOST-SUFFIX,needforspeedlightning.com,geolocation-!cn
 HOST-SUFFIX,needforspeedoverdrive.com,geolocation-!cn
 HOST-SUFFIX,needforspeedproven.com,geolocation-!cn
-HOST-SUFFIX,needforspeedredline.com,geolocation-!cn
+HOST-SUFFIX,jiuse822.com,geolocation-!cn
 HOST-SUFFIX,needforspeedshowdown.com,geolocation-!cn
 HOST-SUFFIX,needforspeedstreetkings.com,geolocation-!cn
 HOST-SUFFIX,needforspeedtakedown.com,geolocation-!cn
@@ -17591,7 +17592,7 @@ HOST-SUFFIX,nozomi.la,geolocation-!cn
 HOST-SUFFIX,wikileaks.pl,geolocation-!cn
 HOST-SUFFIX,npm.community,geolocation-!cn
 HOST-SUFFIX,npmjs.com,geolocation-!cn
-HOST-SUFFIX,jivara.global,geolocation-!cn
+HOST-SUFFIX,npmjs.org,geolocation-!cn
 HOST-SUFFIX,npnt.me,geolocation-!cn
 HOST-SUFFIX,npr.org,geolocation-!cn
 HOST-SUFFIX,npsboost.com,geolocation-!cn
