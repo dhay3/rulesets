@@ -1,5 +1,7 @@
 # GitHub Rulesets
 
+Geosite may cause performance issue !!!
+
 ## QX
 
 - [category-ads-all.list](https://cdn.jsdelivr.net/gh/dhay3/rulesets/QX/category-ads-all.list)
