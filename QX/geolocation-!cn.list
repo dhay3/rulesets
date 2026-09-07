@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/geolocation-!cn.list
-# HOST: 748
+# HOST: 749
 # HOST-SUFFIX: 26292
-# TOTAL: 27040
+# TOTAL: 27041
 HOST,1password.drift.click,geolocation-!cn
 HOST,3dns-1.adobe.com,geolocation-!cn
 HOST,3dns-2.adobe.com,geolocation-!cn
@@ -266,6 +266,7 @@ HOST,img-prod-cms-rt-microsoft-com.akamaized.net,geolocation-!cn
 HOST,img-s-msn-com.akamaized.net,geolocation-!cn
 HOST,impala-media-production.s3.amazonaws.com,geolocation-!cn
 HOST,imperial.insendi.com,geolocation-!cn
+HOST,lastfm-img.freetls.fastly.net,geolocation-!cn
 HOST,lastfm.freetls.fastly.net,geolocation-!cn
 HOST,lazer.ppy.sh,geolocation-!cn
 HOST,lgcscc-hamivideo2.cdn.hinet.net,geolocation-!cn
