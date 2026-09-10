@@ -1,8 +1,8 @@
 # NAME: cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/cn.list
 # HOST: 0
-# HOST-SUFFIX: 111021
-# TOTAL: 111021
+# HOST-SUFFIX: 111022
+# TOTAL: 111022
 HOST-SUFFIX,alibaba,cn
 HOST-SUFFIX,yun,cn
 HOST-SUFFIX,xn--zfr164b,cn
@@ -56,7 +56,7 @@ HOST-SUFFIX,baidu,cn
 HOST-SUFFIX,anquan,cn
 HOST-SUFFIX,alipay,cn
 HOST-SUFFIX,jsjgbxg.com,cn
-HOST-SUFFIX,cargai.com,cn
+HOST-SUFFIX,taoyougou.com,cn
 HOST-SUFFIX,027htxt.com,cn
 HOST-SUFFIX,027hxzy.com,cn
 HOST-SUFFIX,027hy.com,cn
@@ -11300,7 +11300,7 @@ HOST-SUFFIX,alu-ledprofile.com,cn
 HOST-SUFFIX,aluaa.com,cn
 HOST-SUFFIX,aluminiumchina.com,cn
 HOST-SUFFIX,aluntan.com,cn
-HOST-SUFFIX,alwaysnb.com,cn
+HOST-SUFFIX,jssihuan.com,cn
 HOST-SUFFIX,alwayzev.com,cn
 HOST-SUFFIX,alwindoor.com,cn
 HOST-SUFFIX,alxw.com,cn
@@ -18298,7 +18298,7 @@ HOST-SUFFIX,carellicpa.com,cn
 HOST-SUFFIX,carertec.com,cn
 HOST-SUFFIX,careuc.com,cn
 HOST-SUFFIX,carezb.com,cn
-HOST-SUFFIX,jssia.org,cn
+HOST-SUFFIX,cargai.com,cn
 HOST-SUFFIX,cargeer.com,cn
 HOST-SUFFIX,cargo001.com,cn
 HOST-SUFFIX,cargodiscovery.com,cn
@@ -18956,7 +18956,7 @@ HOST-SUFFIX,cded23c0b11011.beer,cn
 HOST-SUFFIX,cdedu.com,cn
 HOST-SUFFIX,cdeledu.com,cn
 HOST-SUFFIX,cdenvironment.com,cn
-HOST-SUFFIX,jssihuan.com,cn
+HOST-SUFFIX,cdfanmu.com,cn
 HOST-SUFFIX,cdfcjg.com,cn
 HOST-SUFFIX,cdfcn.com,cn
 HOST-SUFFIX,cdfeimi.com,cn
@@ -52371,7 +52371,7 @@ HOST-SUFFIX,jcnqqnf.com,cn
 HOST-SUFFIX,jcodecraeer.com,cn
 HOST-SUFFIX,jcorv.org,cn
 HOST-SUFFIX,jcpeixun.com,cn
-HOST-SUFFIX,jcpesz.com,cn
+HOST-SUFFIX,jsshuntai.com,cn
 HOST-SUFFIX,jcqzw.com,cn
 HOST-SUFFIX,jcrb.com,cn
 HOST-SUFFIX,jcrcw.com,cn
@@ -55539,9 +55539,9 @@ HOST-SUFFIX,jsshichuang.com,cn
 HOST-SUFFIX,jsshow.net,cn
 HOST-SUFFIX,jsshrzx.com,cn
 HOST-SUFFIX,jsshuangxin.com,cn
-HOST-SUFFIX,lianqi.net,cn
+HOST-SUFFIX,jcpesz.com,cn
 HOST-SUFFIX,027hpit.com,cn
-HOST-SUFFIX,cdfanmu.com,cn
+HOST-SUFFIX,alwaysnb.com,cn
 HOST-SUFFIX,jssjchyxh.com,cn
 HOST-SUFFIX,jssjrfw.com,cn
 HOST-SUFFIX,jssjxgyw.com,cn
@@ -60498,7 +60498,7 @@ HOST-SUFFIX,lianok.com,cn
 HOST-SUFFIX,lianouyiyuan.com,cn
 HOST-SUFFIX,lianpingroup.com,cn
 HOST-SUFFIX,lianpunet.com,cn
-HOST-SUFFIX,jsshuntai.com,cn
+HOST-SUFFIX,lianqi.net,cn
 HOST-SUFFIX,lianqigong.com,cn
 HOST-SUFFIX,liansaipiao.com,cn
 HOST-SUFFIX,lianshang.com,cn
@@ -86843,7 +86843,7 @@ HOST-SUFFIX,taoxuemiao.com,cn
 HOST-SUFFIX,taoyaohh.site,cn
 HOST-SUFFIX,taoyitu.com,cn
 HOST-SUFFIX,taoyizhu.com,cn
-HOST-SUFFIX,taoyougou.com,cn
+HOST-SUFFIX,jssia.org,cn
 HOST-SUFFIX,taoyuanc.com,cn
 HOST-SUFFIX,taoyuewenhua.net,cn
 HOST-SUFFIX,taozg.store,cn
@@ -104884,6 +104884,7 @@ HOST-SUFFIX,yuano.cc,cn
 HOST-SUFFIX,yuanpanguoji.com,cn
 HOST-SUFFIX,yuanqiao.net,cn
 HOST-SUFFIX,yuanqiao.pw,cn
+HOST-SUFFIX,yuanqidesk.com,cn
 HOST-SUFFIX,yuanqilt.com,cn
 HOST-SUFFIX,yuanqingsh.com,cn
 HOST-SUFFIX,yuanqisenlin.com,cn
