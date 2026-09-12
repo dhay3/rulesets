@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/geolocation-!cn.list
 # HOST: 749
-# HOST-SUFFIX: 26293
-# TOTAL: 27042
+# HOST-SUFFIX: 26294
+# TOTAL: 27043
 HOST,1password.drift.click,geolocation-!cn
 HOST,3dns-1.adobe.com,geolocation-!cn
 HOST,3dns-2.adobe.com,geolocation-!cn
@@ -824,7 +824,7 @@ HOST-SUFFIX,apple,geolocation-!cn
 HOST-SUFFIX,android,geolocation-!cn
 HOST-SUFFIX,amazon,geolocation-!cn
 HOST-SUFFIX,jgoodies.com,geolocation-!cn
-HOST-SUFFIX,gvt0.com,geolocation-!cn
+HOST-SUFFIX,cmx.im,geolocation-!cn
 HOST-SUFFIX,12diasderegalosdeitunes.pe,geolocation-!cn
 HOST-SUFFIX,12joursdecadeauxdeitunes.com,geolocation-!cn
 HOST-SUFFIX,12vpn.com,geolocation-!cn
@@ -6416,7 +6416,7 @@ HOST-SUFFIX,cms-twdigitalassets.com,geolocation-!cn
 HOST-SUFFIX,cms.gov,geolocation-!cn
 HOST-SUFFIX,cmu.edu,geolocation-!cn
 HOST-SUFFIX,cmule.com,geolocation-!cn
-HOST-SUFFIX,cmx.im,geolocation-!cn
+HOST-SUFFIX,jivo.chat,geolocation-!cn
 HOST-SUFFIX,cn-proxy.com,geolocation-!cn
 HOST-SUFFIX,yandexgo.com,geolocation-!cn
 HOST-SUFFIX,yandexcom.net,geolocation-!cn
@@ -11346,7 +11346,7 @@ HOST-SUFFIX,guysnightlife.com,geolocation-!cn
 HOST-SUFFIX,gv.com,geolocation-!cn
 HOST-SUFFIX,gvlib.com,geolocation-!cn
 HOST-SUFFIX,xn--pssu7ci2j23mp9ny48b.xn--j6w193g,geolocation-!cn
-HOST-SUFFIX,jivo.chat,geolocation-!cn
+HOST-SUFFIX,gvt0.com,geolocation-!cn
 HOST-SUFFIX,gvt1-cn.com,geolocation-!cn
 HOST-SUFFIX,gvt1.com,geolocation-!cn
 HOST-SUFFIX,gvt2-cn.com,geolocation-!cn
@@ -11522,7 +11522,7 @@ HOST-SUFFIX,hboinflight.com,geolocation-!cn
 HOST-SUFFIX,hbolacontent.net,geolocation-!cn
 HOST-SUFFIX,hbolaunchpad.com,geolocation-!cn
 HOST-SUFFIX,hbomailman.com,geolocation-!cn
-HOST-SUFFIX,jivo.ru,geolocation-!cn
+HOST-SUFFIX,xn--i2ru8q2qg.com,geolocation-!cn
 HOST-SUFFIX,hbomax.com,geolocation-!cn
 HOST-SUFFIX,hbomax.eu,geolocation-!cn
 HOST-SUFFIX,hbomaxcdn.com,geolocation-!cn
@@ -13099,7 +13099,7 @@ HOST-SUFFIX,installbuzzsaw.com,geolocation-!cn
 HOST-SUFFIX,instamgram.com,geolocation-!cn
 HOST-SUFFIX,instangram.com,geolocation-!cn
 HOST-SUFFIX,instantfap.com,geolocation-!cn
-HOST-SUFFIX,instantfapgay.com,geolocation-!cn
+HOST-SUFFIX,jivo.ru,geolocation-!cn
 HOST-SUFFIX,instantink.com,geolocation-!cn
 HOST-SUFFIX,instantssl.com,geolocation-!cn
 HOST-SUFFIX,instanttelegram.com,geolocation-!cn
@@ -13933,9 +13933,9 @@ HOST-SUFFIX,jiuse6666.com,geolocation-!cn
 HOST-SUFFIX,jiuse821.com,geolocation-!cn
 HOST-SUFFIX,jiuse822.com,geolocation-!cn
 HOST-SUFFIX,jiuse823.com,geolocation-!cn
-HOST-SUFFIX,vrsumo.com,geolocation-!cn
+HOST-SUFFIX,movefreerewards.com,geolocation-!cn
 HOST-SUFFIX,12diasderegalosdeitunes.hn,geolocation-!cn
-HOST-SUFFIX,xn--i2ru8q2qg.com,geolocation-!cn
+HOST-SUFFIX,instantfapgay.com,geolocation-!cn
 HOST-SUFFIX,xboxgamepass.com,geolocation-!cn
 HOST-SUFFIX,xboxab.com,geolocation-!cn
 HOST-SUFFIX,jivochat.com,geolocation-!cn
@@ -16474,7 +16474,7 @@ HOST-SUFFIX,move-free.net,geolocation-!cn
 HOST-SUFFIX,move.com,geolocation-!cn
 HOST-SUFFIX,moveaws.com,geolocation-!cn
 HOST-SUFFIX,movefreeoffers.com,geolocation-!cn
-HOST-SUFFIX,movefreerewards.com,geolocation-!cn
+HOST-SUFFIX,jivara.global,geolocation-!cn
 HOST-SUFFIX,movefrees.com,geolocation-!cn
 HOST-SUFFIX,movements.org,geolocation-!cn
 HOST-SUFFIX,movenetworks.com,geolocation-!cn
@@ -19781,6 +19781,7 @@ HOST-SUFFIX,qstatus.com,geolocation-!cn
 HOST-SUFFIX,qt-project.org,geolocation-!cn
 HOST-SUFFIX,qt.io,geolocation-!cn
 HOST-SUFFIX,qtrac.eu,geolocation-!cn
+HOST-SUFFIX,quakemachinex.com,geolocation-!cn
 HOST-SUFFIX,qualcomm-email.com,geolocation-!cn
 HOST-SUFFIX,qualcomm-inc.com,geolocation-!cn
 HOST-SUFFIX,weknowporn.com,geolocation-!cn
@@ -22519,7 +22520,7 @@ HOST-SUFFIX,101xxx.xyz,geolocation-!cn
 HOST-SUFFIX,target.com,geolocation-!cn
 HOST-SUFFIX,targetimg1.com,geolocation-!cn
 HOST-SUFFIX,tarkov.com,geolocation-!cn
-HOST-SUFFIX,jivara.global,geolocation-!cn
+HOST-SUFFIX,vrsumo.com,geolocation-!cn
 HOST-SUFFIX,tasexy.com,geolocation-!cn
 HOST-SUFFIX,tasexy.top,geolocation-!cn
 HOST-SUFFIX,vrsmash.com,geolocation-!cn
