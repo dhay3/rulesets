@@ -1,8 +1,8 @@
 # NAME: cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/cn.list
 # HOST: 0
-# HOST-SUFFIX: 111030
-# TOTAL: 111030
+# HOST-SUFFIX: 111031
+# TOTAL: 111031
 HOST-SUFFIX,alibaba,cn
 HOST-SUFFIX,yun,cn
 HOST-SUFFIX,xn--zfr164b,cn
@@ -56,7 +56,7 @@ HOST-SUFFIX,baidu,cn
 HOST-SUFFIX,anquan,cn
 HOST-SUFFIX,alipay,cn
 HOST-SUFFIX,jsjhtz.com,cn
-HOST-SUFFIX,rdamicro.com,cn
+HOST-SUFFIX,52etf.site,cn
 HOST-SUFFIX,027htxt.com,cn
 HOST-SUFFIX,027hxzy.com,cn
 HOST-SUFFIX,027hy.com,cn
@@ -4901,7 +4901,7 @@ HOST-SUFFIX,51g4.com,cn
 HOST-SUFFIX,51gaifang.com,cn
 HOST-SUFFIX,51gamecard.com,cn
 HOST-SUFFIX,51ganjie.com,cn
-HOST-SUFFIX,51gaoji.com,cn
+HOST-SUFFIX,jssjrfw.com,cn
 HOST-SUFFIX,51gaoxiao.com,cn
 HOST-SUFFIX,51garlic.com,cn
 HOST-SUFFIX,51gdrc.com,cn
@@ -5437,7 +5437,7 @@ HOST-SUFFIX,52dyy.com,cn
 HOST-SUFFIX,52edns.com,cn
 HOST-SUFFIX,52edy.com,cn
 HOST-SUFFIX,52enku.com,cn
-HOST-SUFFIX,52etf.site,cn
+HOST-SUFFIX,jssjchyxh.com,cn
 HOST-SUFFIX,52fangzi.com,cn
 HOST-SUFFIX,52fanxing.com,cn
 HOST-SUFFIX,52fzwg.com,cn
@@ -16729,7 +16729,7 @@ HOST-SUFFIX,bookshadow.com,cn
 HOST-SUFFIX,bookshi.com,cn
 HOST-SUFFIX,bookshoptw.com,cn
 HOST-SUFFIX,bookshuku.com,cn
-HOST-SUFFIX,jssihuan.com,cn
+HOST-SUFFIX,booksky.cc,cn
 HOST-SUFFIX,bookskys.com,cn
 HOST-SUFFIX,booksn.com,cn
 HOST-SUFFIX,booksos.net,cn
@@ -55543,9 +55543,9 @@ HOST-SUFFIX,jsshrzx.com,cn
 HOST-SUFFIX,jsshuangxin.com,cn
 HOST-SUFFIX,jsshuntai.com,cn
 HOST-SUFFIX,jssia.org,cn
-HOST-SUFFIX,booksky.cc,cn
+HOST-SUFFIX,yinkead.com,cn
 HOST-SUFFIX,027hpit.com,cn
-HOST-SUFFIX,xy3yy.com,cn
+HOST-SUFFIX,51gaoji.com,cn
 HOST-SUFFIX,jssjxgyw.com,cn
 HOST-SUFFIX,jssks.com,cn
 HOST-SUFFIX,jssling.com,cn
@@ -76287,7 +76287,7 @@ HOST-SUFFIX,rd-game.com,cn
 HOST-SUFFIX,rd351.com,cn
 HOST-SUFFIX,rdacs.com,cn
 HOST-SUFFIX,rdadiy.com,cn
-HOST-SUFFIX,jssjchyxh.com,cn
+HOST-SUFFIX,rdamicro.com,cn
 HOST-SUFFIX,rdbuy.com,cn
 HOST-SUFFIX,rdcnzz.com,cn
 HOST-SUFFIX,rdcolg.net,cn
@@ -82485,6 +82485,7 @@ HOST-SUFFIX,sjez.com,cn
 HOST-SUFFIX,sjf029.com,cn
 HOST-SUFFIX,sjfcdn.com,cn
 HOST-SUFFIX,sjfh168.com,cn
+HOST-SUFFIX,sjfls6.com,cn
 HOST-SUFFIX,sjfpro.com,cn
 HOST-SUFFIX,sjfzxm.com,cn
 HOST-SUFFIX,sjg8.com,cn
@@ -101004,7 +101005,7 @@ HOST-SUFFIX,xy1758.com,cn
 HOST-SUFFIX,xy178.com,cn
 HOST-SUFFIX,xy3000.com,cn
 HOST-SUFFIX,xy36z.com,cn
-HOST-SUFFIX,jssjrfw.com,cn
+HOST-SUFFIX,xy3yy.com,cn
 HOST-SUFFIX,xy58.net,cn
 HOST-SUFFIX,xy599.com,cn
 HOST-SUFFIX,xy980.net,cn
@@ -103064,7 +103065,7 @@ HOST-SUFFIX,yinjia.com,cn
 HOST-SUFFIX,yinjiabio.com,cn
 HOST-SUFFIX,yinjispace.com,cn
 HOST-SUFFIX,yinka.co,cn
-HOST-SUFFIX,yinkead.com,cn
+HOST-SUFFIX,jssihuan.com,cn
 HOST-SUFFIX,yinlimedia.com,cn
 HOST-SUFFIX,yinlingshuyuan.com,cn
 HOST-SUFFIX,yinlvaa.com,cn
