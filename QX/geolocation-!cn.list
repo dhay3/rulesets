@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/geolocation-!cn.list
-# HOST: 753
+# HOST: 757
 # HOST-SUFFIX: 26346
-# TOTAL: 27099
+# TOTAL: 27103
 HOST,1password.drift.click,geolocation-!cn
 HOST,3dns-1.adobe.com,geolocation-!cn
 HOST,3dns-2.adobe.com,geolocation-!cn
@@ -101,6 +101,8 @@ HOST,cloudcode-pa.googleapis.com,geolocation-!cn
 HOST,cloudsync-prod.s3.amazonaws.com,geolocation-!cn
 HOST,configuration-lb.ls-apple.com.akadns.net,geolocation-!cn
 HOST,copilot-proxy.githubusercontent.com,geolocation-!cn
+HOST,copilot-telemetry-service.githubusercontent.com,geolocation-!cn
+HOST,copilot-telemetry.githubusercontent.com,geolocation-!cn
 HOST,copilot-workspace.githubnext.com,geolocation-!cn
 HOST,copilotprodattachments.blob.core.windows.net,geolocation-!cn
 HOST,crl.microsoft.com,geolocation-!cn
@@ -269,6 +271,8 @@ HOST,img-prod-cms-rt-microsoft-com.akamaized.net,geolocation-!cn
 HOST,img-s-msn-com.akamaized.net,geolocation-!cn
 HOST,impala-media-production.s3.amazonaws.com,geolocation-!cn
 HOST,imperial.insendi.com,geolocation-!cn
+HOST,incoming-telemetry.thunderbird.net,geolocation-!cn
+HOST,incoming.telemetry.mozilla.org,geolocation-!cn
 HOST,lastfm-img.freetls.fastly.net,geolocation-!cn
 HOST,lastfm.freetls.fastly.net,geolocation-!cn
 HOST,lazer.ppy.sh,geolocation-!cn
