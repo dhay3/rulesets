@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/geolocation-!cn.list
 # HOST: 756
-# HOST-SUFFIX: 26438
-# TOTAL: 27194
+# HOST-SUFFIX: 26439
+# TOTAL: 27195
 HOST,1password.drift.click,geolocation-!cn
 HOST,3dns-1.adobe.com,geolocation-!cn
 HOST,3dns-2.adobe.com,geolocation-!cn
@@ -830,8 +830,8 @@ HOST-SUFFIX,aws,geolocation-!cn
 HOST-SUFFIX,apple,geolocation-!cn
 HOST-SUFFIX,android,geolocation-!cn
 HOST-SUFFIX,amazon,geolocation-!cn
-HOST-SUFFIX,jiaochuanba25.buzz,geolocation-!cn
-HOST-SUFFIX,tbcollege.org,geolocation-!cn
+HOST-SUFFIX,jiangweiping.com,geolocation-!cn
+HOST-SUFFIX,nikeplus.org,geolocation-!cn
 HOST-SUFFIX,12diasderegalosdeitunes.pe,geolocation-!cn
 HOST-SUFFIX,12joursdecadeauxdeitunes.com,geolocation-!cn
 HOST-SUFFIX,12vpn.com,geolocation-!cn
@@ -1248,6 +1248,7 @@ HOST-SUFFIX,7mmtv.tv,geolocation-!cn
 HOST-SUFFIX,7tb.cc,geolocation-!cn
 HOST-SUFFIX,7tv.app,geolocation-!cn
 HOST-SUFFIX,7tv.io,geolocation-!cn
+HOST-SUFFIX,7x24hrs.com,geolocation-!cn
 HOST-SUFFIX,8-d.com,geolocation-!cn
 HOST-SUFFIX,8008206616.com,geolocation-!cn
 HOST-SUFFIX,8111y.top,geolocation-!cn
@@ -6658,7 +6659,7 @@ HOST-SUFFIX,coolsexnew.com,geolocation-!cn
 HOST-SUFFIX,coolstuffinc.com,geolocation-!cn
 HOST-SUFFIX,coomer.party,geolocation-!cn
 HOST-SUFFIX,coomer.st,geolocation-!cn
-HOST-SUFFIX,coomer.su,geolocation-!cn
+HOST-SUFFIX,jizzle.com,geolocation-!cn
 HOST-SUFFIX,coova.com,geolocation-!cn
 HOST-SUFFIX,coova.net,geolocation-!cn
 HOST-SUFFIX,coova.org,geolocation-!cn
@@ -7410,7 +7411,7 @@ HOST-SUFFIX,dev-guardianapis.com,geolocation-!cn
 HOST-SUFFIX,dev-my.com,geolocation-!cn
 HOST-SUFFIX,dev-my.games,geolocation-!cn
 HOST-SUFFIX,dev-theguardian.com,geolocation-!cn
-HOST-SUFFIX,jizzhut.com,geolocation-!cn
+HOST-SUFFIX,dev.to,geolocation-!cn
 HOST-SUFFIX,devcon.org,geolocation-!cn
 HOST-SUFFIX,developer-advisor.com,geolocation-!cn
 HOST-SUFFIX,yahoo.ch,geolocation-!cn
@@ -13976,8 +13977,8 @@ HOST-SUFFIX,jgoodies.com,geolocation-!cn
 HOST-SUFFIX,jhelab.org,geolocation-!cn
 HOST-SUFFIX,jhxl.org,geolocation-!cn
 HOST-SUFFIX,jhzyw.xyz,geolocation-!cn
-HOST-SUFFIX,jiangweiping.com,geolocation-!cn
 HOST-SUFFIX,000webhost.com,geolocation-!cn
+HOST-SUFFIX,jiaochuanba25.buzz,geolocation-!cn
 HOST-SUFFIX,jiaochuanba26.buzz,geolocation-!cn
 HOST-SUFFIX,jiaoyou8.com,geolocation-!cn
 HOST-SUFFIX,jiayoulu.com,geolocation-!cn
@@ -14011,10 +14012,10 @@ HOST-SUFFIX,jivara.global,geolocation-!cn
 HOST-SUFFIX,jiyou520.com,geolocation-!cn
 HOST-SUFFIX,xboxlive.com,geolocation-!cn
 HOST-SUFFIX,jizzboom.com,geolocation-!cn
-HOST-SUFFIX,jizzbunker.com,geolocation-!cn
-HOST-SUFFIX,dev.to,geolocation-!cn
+HOST-SUFFIX,meitula.net,geolocation-!cn
 HOST-SUFFIX,12diasderegalosdeitunes.hn,geolocation-!cn
-HOST-SUFFIX,video01.org,geolocation-!cn
+HOST-SUFFIX,coomer.su,geolocation-!cn
+HOST-SUFFIX,jizzonline.com,geolocation-!cn
 HOST-SUFFIX,jjgirls.com,geolocation-!cn
 HOST-SUFFIX,jjsuo.sbs,geolocation-!cn
 HOST-SUFFIX,jkb.cc,geolocation-!cn
@@ -15664,7 +15665,7 @@ HOST-SUFFIX,megurineluka.com,geolocation-!cn
 HOST-SUFFIX,meguso.com,geolocation-!cn
 HOST-SUFFIX,meijinsen.jp,geolocation-!cn
 HOST-SUFFIX,meilleurpornos.com,geolocation-!cn
-HOST-SUFFIX,meitula.net,geolocation-!cn
+HOST-SUFFIX,jizzbunker.com,geolocation-!cn
 HOST-SUFFIX,meizhong.blog,geolocation-!cn
 HOST-SUFFIX,meizhong.report,geolocation-!cn
 HOST-SUFFIX,melon.com,geolocation-!cn
@@ -17471,7 +17472,7 @@ HOST-SUFFIX,nikeoutletstore.com,geolocation-!cn
 HOST-SUFFIX,nikeoutletstores.com,geolocation-!cn
 HOST-SUFFIX,nikepioneer.com,geolocation-!cn
 HOST-SUFFIX,nikeplus.com,geolocation-!cn
-HOST-SUFFIX,nikeplus.org,geolocation-!cn
+HOST-SUFFIX,jizzhut.com,geolocation-!cn
 HOST-SUFFIX,nikepress.com,geolocation-!cn
 HOST-SUFFIX,nikeprice.com,geolocation-!cn
 HOST-SUFFIX,nikeproduct.com,geolocation-!cn
@@ -22655,7 +22656,7 @@ HOST-SUFFIX,tb-esim.ru,geolocation-!cn
 HOST-SUFFIX,tb.pro,geolocation-!cn
 HOST-SUFFIX,tbank-online.com,geolocation-!cn
 HOST-SUFFIX,tbank.ru,geolocation-!cn
-HOST-SUFFIX,jizzle.com,geolocation-!cn
+HOST-SUFFIX,tbcollege.org,geolocation-!cn
 HOST-SUFFIX,tbib.org,geolocation-!cn
 HOST-SUFFIX,vrv.co,geolocation-!cn
 HOST-SUFFIX,tbsec.org,geolocation-!cn
@@ -24361,7 +24362,7 @@ HOST-SUFFIX,video-jav.net,geolocation-!cn
 HOST-SUFFIX,video-one.com,geolocation-!cn
 HOST-SUFFIX,volvogroup.be,geolocation-!cn
 HOST-SUFFIX,volvodefense.com,geolocation-!cn
-HOST-SUFFIX,jizzonline.com,geolocation-!cn
+HOST-SUFFIX,video01.org,geolocation-!cn
 HOST-SUFFIX,videobam.com,geolocation-!cn
 HOST-SUFFIX,videobreakdown.com,geolocation-!cn
 HOST-SUFFIX,videochampion.com,geolocation-!cn
