@@ -1,8 +1,8 @@
 # NAME: private
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/private.list
-# HOST: 12
+# HOST: 14
 # HOST-SUFFIX: 118
-# TOTAL: 130
+# TOTAL: 132
 HOST,instant.arubanetworks.com,private
 HOST,setmeup.arubanetworks.com,private
 HOST,asusrouter.com,private
@@ -11,6 +11,8 @@ HOST,www.asusrouter.com,private
 HOST,oasisauth.h3c.com,private
 HOST,routerlogin.com,private
 HOST,www.routerlogin.com,private
+HOST,localhost.weixin.qq.com,private
+HOST,localhost.work.weixin.qq.com,private
 HOST,tplogin.cn,private
 HOST,miwifi.com,private
 HOST,www.miwifi.com,private

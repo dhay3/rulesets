@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/geolocation-!cn.list
 # HOST: 756
-# HOST-SUFFIX: 26439
-# TOTAL: 27195
+# HOST-SUFFIX: 26445
+# TOTAL: 27201
 HOST,1password.drift.click,geolocation-!cn
 HOST,3dns-1.adobe.com,geolocation-!cn
 HOST,3dns-2.adobe.com,geolocation-!cn
@@ -830,8 +830,8 @@ HOST-SUFFIX,aws,geolocation-!cn
 HOST-SUFFIX,apple,geolocation-!cn
 HOST-SUFFIX,android,geolocation-!cn
 HOST-SUFFIX,amazon,geolocation-!cn
-HOST-SUFFIX,jiangweiping.com,geolocation-!cn
-HOST-SUFFIX,nikeplus.org,geolocation-!cn
+HOST-SUFFIX,jiaoyou8.com,geolocation-!cn
+HOST-SUFFIX,dirtypornvids.com,geolocation-!cn
 HOST-SUFFIX,12diasderegalosdeitunes.pe,geolocation-!cn
 HOST-SUFFIX,12joursdecadeauxdeitunes.com,geolocation-!cn
 HOST-SUFFIX,12vpn.com,geolocation-!cn
@@ -2506,7 +2506,7 @@ HOST-SUFFIX,anime-pictures.net,geolocation-!cn
 HOST-SUFFIX,anime-tube.pw,geolocation-!cn
 HOST-SUFFIX,animedao-tv.com,geolocation-!cn
 HOST-SUFFIX,animegal.net,geolocation-!cn
-HOST-SUFFIX,animehentaihub.com,geolocation-!cn
+HOST-SUFFIX,jizzonline.com,geolocation-!cn
 HOST-SUFFIX,animeidhentai.com,geolocation-!cn
 HOST-SUFFIX,animepornhd.com,geolocation-!cn
 HOST-SUFFIX,animesex.me,geolocation-!cn
@@ -6659,7 +6659,7 @@ HOST-SUFFIX,coolsexnew.com,geolocation-!cn
 HOST-SUFFIX,coolstuffinc.com,geolocation-!cn
 HOST-SUFFIX,coomer.party,geolocation-!cn
 HOST-SUFFIX,coomer.st,geolocation-!cn
-HOST-SUFFIX,jizzle.com,geolocation-!cn
+HOST-SUFFIX,coomer.su,geolocation-!cn
 HOST-SUFFIX,coova.com,geolocation-!cn
 HOST-SUFFIX,coova.net,geolocation-!cn
 HOST-SUFFIX,coova.org,geolocation-!cn
@@ -6888,6 +6888,7 @@ HOST-SUFFIX,cursor-cdn.com,geolocation-!cn
 HOST-SUFFIX,cursor.com,geolocation-!cn
 HOST-SUFFIX,cursor.sh,geolocation-!cn
 HOST-SUFFIX,cursorapi.com,geolocation-!cn
+HOST-SUFFIX,cursorvm.com,geolocation-!cn
 HOST-SUFFIX,curve.fi,geolocation-!cn
 HOST-SUFFIX,curvefish.com,geolocation-!cn
 HOST-SUFFIX,curvybbwwives.com,geolocation-!cn
@@ -7556,7 +7557,7 @@ HOST-SUFFIX,dirtyflix.com,geolocation-!cn
 HOST-SUFFIX,dirtyhomefuck.com,geolocation-!cn
 HOST-SUFFIX,dirtyleague.com,geolocation-!cn
 HOST-SUFFIX,dirtyonline.com,geolocation-!cn
-HOST-SUFFIX,dirtypornvids.com,geolocation-!cn
+HOST-SUFFIX,jjgirls.com,geolocation-!cn
 HOST-SUFFIX,dirtyscat.org,geolocation-!cn
 HOST-SUFFIX,dirtyshack.com,geolocation-!cn
 HOST-SUFFIX,dirtyship.com,geolocation-!cn
@@ -12080,7 +12081,7 @@ HOST-SUFFIX,hongkongdollvideo.org,geolocation-!cn
 HOST-SUFFIX,hongkongfp.com,geolocation-!cn
 HOST-SUFFIX,xn--e1aigb.xn--p1ai,geolocation-!cn
 HOST-SUFFIX,hongzhi.li,geolocation-!cn
-HOST-SUFFIX,honkaiimpact3.com,geolocation-!cn
+HOST-SUFFIX,jjsuo.sbs,geolocation-!cn
 HOST-SUFFIX,honkaistarrail.com,geolocation-!cn
 HOST-SUFFIX,honnaka.jp,geolocation-!cn
 HOST-SUFFIX,honven.xyz,geolocation-!cn
@@ -13977,10 +13978,10 @@ HOST-SUFFIX,jgoodies.com,geolocation-!cn
 HOST-SUFFIX,jhelab.org,geolocation-!cn
 HOST-SUFFIX,jhxl.org,geolocation-!cn
 HOST-SUFFIX,jhzyw.xyz,geolocation-!cn
-HOST-SUFFIX,000webhost.com,geolocation-!cn
+HOST-SUFFIX,jiangweiping.com,geolocation-!cn
 HOST-SUFFIX,jiaochuanba25.buzz,geolocation-!cn
 HOST-SUFFIX,jiaochuanba26.buzz,geolocation-!cn
-HOST-SUFFIX,jiaoyou8.com,geolocation-!cn
+HOST-SUFFIX,000webhost.com,geolocation-!cn
 HOST-SUFFIX,jiayoulu.com,geolocation-!cn
 HOST-SUFFIX,jibemobile.com,geolocation-!cn
 HOST-SUFFIX,xboxone.com,geolocation-!cn
@@ -14012,12 +14013,12 @@ HOST-SUFFIX,jivara.global,geolocation-!cn
 HOST-SUFFIX,jiyou520.com,geolocation-!cn
 HOST-SUFFIX,xboxlive.com,geolocation-!cn
 HOST-SUFFIX,jizzboom.com,geolocation-!cn
-HOST-SUFFIX,meitula.net,geolocation-!cn
+HOST-SUFFIX,jizzbunker.com,geolocation-!cn
+HOST-SUFFIX,jizzhut.com,geolocation-!cn
+HOST-SUFFIX,jizzle.com,geolocation-!cn
+HOST-SUFFIX,animehentaihub.com,geolocation-!cn
 HOST-SUFFIX,12diasderegalosdeitunes.hn,geolocation-!cn
-HOST-SUFFIX,coomer.su,geolocation-!cn
-HOST-SUFFIX,jizzonline.com,geolocation-!cn
-HOST-SUFFIX,jjgirls.com,geolocation-!cn
-HOST-SUFFIX,jjsuo.sbs,geolocation-!cn
+HOST-SUFFIX,honkaiimpact3.com,geolocation-!cn
 HOST-SUFFIX,jkb.cc,geolocation-!cn
 HOST-SUFFIX,jkbeats.com,geolocation-!cn
 HOST-SUFFIX,jkf.net,geolocation-!cn
@@ -15665,7 +15666,7 @@ HOST-SUFFIX,megurineluka.com,geolocation-!cn
 HOST-SUFFIX,meguso.com,geolocation-!cn
 HOST-SUFFIX,meijinsen.jp,geolocation-!cn
 HOST-SUFFIX,meilleurpornos.com,geolocation-!cn
-HOST-SUFFIX,jizzbunker.com,geolocation-!cn
+HOST-SUFFIX,meitula.net,geolocation-!cn
 HOST-SUFFIX,meizhong.blog,geolocation-!cn
 HOST-SUFFIX,meizhong.report,geolocation-!cn
 HOST-SUFFIX,melon.com,geolocation-!cn
@@ -17472,7 +17473,7 @@ HOST-SUFFIX,nikeoutletstore.com,geolocation-!cn
 HOST-SUFFIX,nikeoutletstores.com,geolocation-!cn
 HOST-SUFFIX,nikepioneer.com,geolocation-!cn
 HOST-SUFFIX,nikeplus.com,geolocation-!cn
-HOST-SUFFIX,jizzhut.com,geolocation-!cn
+HOST-SUFFIX,nikeplus.org,geolocation-!cn
 HOST-SUFFIX,nikepress.com,geolocation-!cn
 HOST-SUFFIX,nikeprice.com,geolocation-!cn
 HOST-SUFFIX,nikeproduct.com,geolocation-!cn
@@ -18200,6 +18201,7 @@ HOST-SUFFIX,op7979.com,geolocation-!cn
 HOST-SUFFIX,opac-project.eu,geolocation-!cn
 HOST-SUFFIX,wholefoodsmarket.com,geolocation-!cn
 HOST-SUFFIX,openai.com,geolocation-!cn
+HOST-SUFFIX,openai.org,geolocation-!cn
 HOST-SUFFIX,openamt.com,geolocation-!cn
 HOST-SUFFIX,openapiplatform.com,geolocation-!cn
 HOST-SUFFIX,openapiservice.com,geolocation-!cn
@@ -20837,6 +20839,7 @@ HOST-SUFFIX,schwab.com,geolocation-!cn
 HOST-SUFFIX,wbtek.ru,geolocation-!cn
 HOST-SUFFIX,wbstatic.ru,geolocation-!cn
 HOST-SUFFIX,schwabassetmanagement.com,geolocation-!cn
+HOST-SUFFIX,schwabcdn.com,geolocation-!cn
 HOST-SUFFIX,schwabplan.com,geolocation-!cn
 HOST-SUFFIX,sci-hub.ee,geolocation-!cn
 HOST-SUFFIX,wbstatic.net,geolocation-!cn
@@ -23190,6 +23193,8 @@ HOST-SUFFIX,vpn4all.com,geolocation-!cn
 HOST-SUFFIX,timestalks.com,geolocation-!cn
 HOST-SUFFIX,timeweb.cloud,geolocation-!cn
 HOST-SUFFIX,timeweb.com,geolocation-!cn
+HOST-SUFFIX,timeweb.tech,geolocation-!cn
+HOST-SUFFIX,timewebcloud.kz,geolocation-!cn
 HOST-SUFFIX,timi1.me,geolocation-!cn
 HOST-SUFFIX,timo0.com,geolocation-!cn
 HOST-SUFFIX,timtales.com,geolocation-!cn
@@ -23767,6 +23772,7 @@ HOST-SUFFIX,typekit.com,geolocation-!cn
 HOST-SUFFIX,typekit.net,geolocation-!cn
 HOST-SUFFIX,typenetwork.com,geolocation-!cn
 HOST-SUFFIX,typepad.com,geolocation-!cn
+HOST-SUFFIX,typesafe.ai,geolocation-!cn
 HOST-SUFFIX,typeset.io,geolocation-!cn
 HOST-SUFFIX,typesquare.com,geolocation-!cn
 HOST-SUFFIX,typography.com,geolocation-!cn
