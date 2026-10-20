@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/geolocation-!cn.list
-# HOST: 758
-# HOST-SUFFIX: 26455
-# TOTAL: 27213
+# HOST: 760
+# HOST-SUFFIX: 26458
+# TOTAL: 27218
 HOST,1password.drift.click,geolocation-!cn
 HOST,3dns-1.adobe.com,geolocation-!cn
 HOST,3dns-2.adobe.com,geolocation-!cn
@@ -275,6 +275,8 @@ HOST,impala-media-production.s3.amazonaws.com,geolocation-!cn
 HOST,imperial.insendi.com,geolocation-!cn
 HOST,incoming-telemetry.thunderbird.net,geolocation-!cn
 HOST,incoming.telemetry.mozilla.org,geolocation-!cn
+HOST,kp-config-smart-tv.akamaized.net,geolocation-!cn
+HOST,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com,geolocation-!cn
 HOST,lastfm-img.freetls.fastly.net,geolocation-!cn
 HOST,lastfm.freetls.fastly.net,geolocation-!cn
 HOST,lazer.ppy.sh,geolocation-!cn
@@ -832,8 +834,8 @@ HOST-SUFFIX,aws,geolocation-!cn
 HOST-SUFFIX,apple,geolocation-!cn
 HOST-SUFFIX,android,geolocation-!cn
 HOST-SUFFIX,amazon,geolocation-!cn
-HOST-SUFFIX,jiangweiping.com,geolocation-!cn
-HOST-SUFFIX,xxxvirtualworld.com,geolocation-!cn
+HOST-SUFFIX,jiaochuanba26.buzz,geolocation-!cn
+HOST-SUFFIX,jm98.cc,geolocation-!cn
 HOST-SUFFIX,12diasderegalosdeitunes.pe,geolocation-!cn
 HOST-SUFFIX,12joursdecadeauxdeitunes.com,geolocation-!cn
 HOST-SUFFIX,12vpn.com,geolocation-!cn
@@ -4524,13 +4526,13 @@ HOST-SUFFIX,youtube.la,geolocation-!cn
 HOST-SUFFIX,youtube.kz,geolocation-!cn
 HOST-SUFFIX,youtube.kr,geolocation-!cn
 HOST-SUFFIX,blog.jp,geolocation-!cn
+HOST-SUFFIX,jjgirls.com,geolocation-!cn
 HOST-SUFFIX,youtube.jp,geolocation-!cn
 HOST-SUFFIX,youtube.jo,geolocation-!cn
 HOST-SUFFIX,youtube.it,geolocation-!cn
 HOST-SUFFIX,youtube.is,geolocation-!cn
 HOST-SUFFIX,youtube.iq,geolocation-!cn
 HOST-SUFFIX,youtube.in,geolocation-!cn
-HOST-SUFFIX,youtube.ie,geolocation-!cn
 HOST-SUFFIX,blogblog.com,geolocation-!cn
 HOST-SUFFIX,blogcatalog.com,geolocation-!cn
 HOST-SUFFIX,blogcity.me,geolocation-!cn
@@ -4553,14 +4555,15 @@ HOST-SUFFIX,blogspot.cat,geolocation-!cn
 HOST-SUFFIX,blogspot.cf,geolocation-!cn
 HOST-SUFFIX,blogspot.ch,geolocation-!cn
 HOST-SUFFIX,blogspot.cl,geolocation-!cn
+HOST-SUFFIX,youtube.ie,geolocation-!cn
 HOST-SUFFIX,youtube.hu,geolocation-!cn
 HOST-SUFFIX,youtube.hr,geolocation-!cn
 HOST-SUFFIX,youtube.hk,geolocation-!cn
 HOST-SUFFIX,youtube.gt,geolocation-!cn
 HOST-SUFFIX,youtube.gr,geolocation-!cn
 HOST-SUFFIX,youtube.ge,geolocation-!cn
-HOST-SUFFIX,youtube.fr,geolocation-!cn
 HOST-SUFFIX,blogspot.com,geolocation-!cn
+HOST-SUFFIX,youtube.fr,geolocation-!cn
 HOST-SUFFIX,youtube.fi,geolocation-!cn
 HOST-SUFFIX,youtube.es,geolocation-!cn
 HOST-SUFFIX,youtube.ee,geolocation-!cn
@@ -4573,7 +4576,6 @@ HOST-SUFFIX,youtube.co,geolocation-!cn
 HOST-SUFFIX,youtube.cl,geolocation-!cn
 HOST-SUFFIX,youtube.ch,geolocation-!cn
 HOST-SUFFIX,youtube.cat,geolocation-!cn
-HOST-SUFFIX,youtube.ca,geolocation-!cn
 HOST-SUFFIX,blogspot.cv,geolocation-!cn
 HOST-SUFFIX,blogspot.cz,geolocation-!cn
 HOST-SUFFIX,blogspot.de,geolocation-!cn
@@ -4618,11 +4620,11 @@ HOST-SUFFIX,blogspot.vn,geolocation-!cn
 HOST-SUFFIX,blogtd.org,geolocation-!cn
 HOST-SUFFIX,blogterest.net,geolocation-!cn
 HOST-SUFFIX,bloodshed.net,geolocation-!cn
+HOST-SUFFIX,youtube.ca,geolocation-!cn
 HOST-SUFFIX,youtube.by,geolocation-!cn
 HOST-SUFFIX,youtube.bo,geolocation-!cn
-HOST-SUFFIX,youtube.bh,geolocation-!cn
 HOST-SUFFIX,bloomberg.com,geolocation-!cn
-HOST-SUFFIX,youtube.bg,geolocation-!cn
+HOST-SUFFIX,youtube.bh,geolocation-!cn
 HOST-SUFFIX,bloomberg.de,geolocation-!cn
 HOST-SUFFIX,bloomberg.fm,geolocation-!cn
 HOST-SUFFIX,bloomberg.tv,geolocation-!cn
@@ -4690,7 +4692,7 @@ HOST-SUFFIX,bmi.ir,geolocation-!cn
 HOST-SUFFIX,bmia.org,geolocation-!cn
 HOST-SUFFIX,bmj.com,geolocation-!cn
 HOST-SUFFIX,bml.info,geolocation-!cn
-HOST-SUFFIX,youtube.be,geolocation-!cn
+HOST-SUFFIX,youtube.bg,geolocation-!cn
 HOST-SUFFIX,bmw-abudhabi.com,geolocation-!cn
 HOST-SUFFIX,bmw-adventskalender.com,geolocation-!cn
 HOST-SUFFIX,bmw-albania.com,geolocation-!cn
@@ -4713,16 +4715,16 @@ HOST-SUFFIX,bmw-connecteddrive.be,geolocation-!cn
 HOST-SUFFIX,bmw-connecteddrive.bg,geolocation-!cn
 HOST-SUFFIX,bmw-connecteddrive.ca,geolocation-!cn
 HOST-SUFFIX,bmw-connecteddrive.ch,geolocation-!cn
+HOST-SUFFIX,youtube.be,geolocation-!cn
 HOST-SUFFIX,youtube.ba,geolocation-!cn
 HOST-SUFFIX,youtube.az,geolocation-!cn
-HOST-SUFFIX,youtube.at,geolocation-!cn
 HOST-SUFFIX,bmw-connecteddrive.com,geolocation-!cn
+HOST-SUFFIX,youtube.at,geolocation-!cn
 HOST-SUFFIX,youtube.am,geolocation-!cn
 HOST-SUFFIX,youtube.al,geolocation-!cn
 HOST-SUFFIX,youtube.ae,geolocation-!cn
 HOST-SUFFIX,youtube-nocookie.com,geolocation-!cn
 HOST-SUFFIX,02weqj32.com,geolocation-!cn
-HOST-SUFFIX,youtu.be,geolocation-!cn
 HOST-SUFFIX,bmw-connecteddrive.cz,geolocation-!cn
 HOST-SUFFIX,bmw-connecteddrive.de,geolocation-!cn
 HOST-SUFFIX,bmw-connecteddrive.dk,geolocation-!cn
@@ -4754,7 +4756,7 @@ HOST-SUFFIX,bmw-connecteddrive.sk,geolocation-!cn
 HOST-SUFFIX,bmw-connecteddrive.tw,geolocation-!cn
 HOST-SUFFIX,bmw-corporate-sales.com,geolocation-!cn
 HOST-SUFFIX,bmw-diplomatic-sales.com,geolocation-!cn
-HOST-SUFFIX,youtrannytube.com,geolocation-!cn
+HOST-SUFFIX,youtu.be,geolocation-!cn
 HOST-SUFFIX,bmw-drivingexperience.com,geolocation-!cn
 HOST-SUFFIX,bmw-dubai.com,geolocation-!cn
 HOST-SUFFIX,bmw-eg.com,geolocation-!cn
@@ -4799,13 +4801,14 @@ HOST-SUFFIX,bmw-motorrad.ca,geolocation-!cn
 HOST-SUFFIX,bmw-motorrad.ch,geolocation-!cn
 HOST-SUFFIX,bmw-motorrad.cl,geolocation-!cn
 HOST-SUFFIX,bmw-motorrad.co,geolocation-!cn
+HOST-SUFFIX,youtrannytube.com,geolocation-!cn
 HOST-SUFFIX,youtrack.cloud,geolocation-!cn
 HOST-SUFFIX,youskbe.com,geolocation-!cn
 HOST-SUFFIX,yousendit.com,geolocation-!cn
 HOST-SUFFIX,yourxxxvideos.pro,geolocation-!cn
 HOST-SUFFIX,yourwifemymeat.com,geolocation-!cn
-HOST-SUFFIX,yourvserver.net,geolocation-!cn
 HOST-SUFFIX,bmw-motorrad.com,geolocation-!cn
+HOST-SUFFIX,yourvserver.net,geolocation-!cn
 HOST-SUFFIX,yourvoyeurvideos.com,geolocation-!cn
 HOST-SUFFIX,yourupskirt.com,geolocation-!cn
 HOST-SUFFIX,yourporngod.com,geolocation-!cn
@@ -4815,7 +4818,6 @@ HOST-SUFFIX,yourpelvicexam.com,geolocation-!cn
 HOST-SUFFIX,yourmonsterbeats.com,geolocation-!cn
 HOST-SUFFIX,yourmomsgotbigtits.com,geolocation-!cn
 HOST-SUFFIX,yourmomlovesanal.com,geolocation-!cn
-HOST-SUFFIX,yourlust.com,geolocation-!cn
 HOST-SUFFIX,bmw-motorrad.cr,geolocation-!cn
 HOST-SUFFIX,bmw-motorrad.cz,geolocation-!cn
 HOST-SUFFIX,bmw-motorrad.de,geolocation-!cn
@@ -4859,7 +4861,7 @@ HOST-SUFFIX,bmw-oman.com,geolocation-!cn
 HOST-SUFFIX,bmw-ottawa.ca,geolocation-!cn
 HOST-SUFFIX,bmw-pakistan.com,geolocation-!cn
 HOST-SUFFIX,bmw-plant-munich.com,geolocation-!cn
-HOST-SUFFIX,yourlisten.com,geolocation-!cn
+HOST-SUFFIX,yourlust.com,geolocation-!cn
 HOST-SUFFIX,bmw-powertrain.com,geolocation-!cn
 HOST-SUFFIX,bmw-product-highlights.com,geolocation-!cn
 HOST-SUFFIX,bmw-qatar.com,geolocation-!cn
@@ -4900,6 +4902,7 @@ HOST-SUFFIX,bmw.ca,geolocation-!cn
 HOST-SUFFIX,bmw.cc,geolocation-!cn
 HOST-SUFFIX,bmw.ch,geolocation-!cn
 HOST-SUFFIX,bmw.cl,geolocation-!cn
+HOST-SUFFIX,yourlisten.com,geolocation-!cn
 HOST-SUFFIX,yourgynexam.com,geolocation-!cn
 HOST-SUFFIX,yourfreeporn.tv,geolocation-!cn
 HOST-SUFFIX,yourflashporn.com,geolocation-!cn
@@ -4910,8 +4913,8 @@ HOST-SUFFIX,yourdirtymind.com,geolocation-!cn
 HOST-SUFFIX,yourdailypornvideos.ws,geolocation-!cn
 HOST-SUFFIX,yourbrain.com,geolocation-!cn
 HOST-SUFFIX,yourassbig.com,geolocation-!cn
-HOST-SUFFIX,youramateurporn.com,geolocation-!cn
 HOST-SUFFIX,bmw.com,geolocation-!cn
+HOST-SUFFIX,youramateurporn.com,geolocation-!cn
 HOST-SUFFIX,your-storageshare.de,geolocation-!cn
 HOST-SUFFIX,your-storagebox.de,geolocation-!cn
 HOST-SUFFIX,your-server.de,geolocation-!cn
@@ -4941,7 +4944,6 @@ HOST-SUFFIX,younger19.com,geolocation-!cn
 HOST-SUFFIX,youngamateursporn.com,geolocation-!cn
 HOST-SUFFIX,young-xxx.net,geolocation-!cn
 HOST-SUFFIX,young-webcam.net,geolocation-!cn
-HOST-SUFFIX,young-amateur-movies.com,geolocation-!cn
 HOST-SUFFIX,bmw.cw,geolocation-!cn
 HOST-SUFFIX,bmw.cz,geolocation-!cn
 HOST-SUFFIX,bmw.de,geolocation-!cn
@@ -5047,10 +5049,10 @@ HOST-SUFFIX,bmwmc.net,geolocation-!cn
 HOST-SUFFIX,bmwmontreal.ca,geolocation-!cn
 HOST-SUFFIX,bmwmotorcycles.com,geolocation-!cn
 HOST-SUFFIX,bmwmotorcycleusa.com,geolocation-!cn
+HOST-SUFFIX,young-amateur-movies.com,geolocation-!cn
 HOST-SUFFIX,youmind.site,geolocation-!cn
 HOST-SUFFIX,youmind.com,geolocation-!cn
 HOST-SUFFIX,youmind.ai,geolocation-!cn
-HOST-SUFFIX,youmaker.com,geolocation-!cn
 HOST-SUFFIX,bmwmotorradhk.com,geolocation-!cn
 HOST-SUFFIX,bmwmotorshowblog.com,geolocation-!cn
 HOST-SUFFIX,bmwmotorsport.com,geolocation-!cn
@@ -5092,7 +5094,7 @@ HOST-SUFFIX,bnappweb.black,geolocation-!cn
 HOST-SUFFIX,bnbchain.org,geolocation-!cn
 HOST-SUFFIX,bnbstatic.com,geolocation-!cn
 HOST-SUFFIX,bnef.com,geolocation-!cn
-HOST-SUFFIX,youlucky.com,geolocation-!cn
+HOST-SUFFIX,youmaker.com,geolocation-!cn
 HOST-SUFFIX,bnn.co,geolocation-!cn
 HOST-SUFFIX,bnrmetal.com,geolocation-!cn
 HOST-SUFFIX,bntrace.com,geolocation-!cn
@@ -5107,10 +5109,10 @@ HOST-SUFFIX,boc.ru,geolocation-!cn
 HOST-SUFFIX,bocici.buzz,geolocation-!cn
 HOST-SUFFIX,bod.asia,geolocation-!cn
 HOST-SUFFIX,bodgirls.com,geolocation-!cn
-HOST-SUFFIX,youla.ru,geolocation-!cn
+HOST-SUFFIX,youlucky.com,geolocation-!cn
 HOST-SUFFIX,bodyfluids-jav.com,geolocation-!cn
 HOST-SUFFIX,bohemia.net,geolocation-!cn
-HOST-SUFFIX,youla.io,geolocation-!cn
+HOST-SUFFIX,youla.ru,geolocation-!cn
 HOST-SUFFIX,bokep.net,geolocation-!cn
 HOST-SUFFIX,bokepseks.org,geolocation-!cn
 HOST-SUFFIX,bokepvidz.com,geolocation-!cn
@@ -5130,7 +5132,7 @@ HOST-SUFFIX,boobstagram.com,geolocation-!cn
 HOST-SUFFIX,boodigo.com,geolocation-!cn
 HOST-SUFFIX,boodigogo.com,geolocation-!cn
 HOST-SUFFIX,book-catalog.ru,geolocation-!cn
-HOST-SUFFIX,jizzhut.com,geolocation-!cn
+HOST-SUFFIX,youla.io,geolocation-!cn
 HOST-SUFFIX,book18.org,geolocation-!cn
 HOST-SUFFIX,book1917.live,geolocation-!cn
 HOST-SUFFIX,book4you.org,geolocation-!cn
@@ -8042,7 +8044,7 @@ HOST-SUFFIX,duckduckco.com,geolocation-!cn
 HOST-SUFFIX,duckduckco.de,geolocation-!cn
 HOST-SUFFIX,duckduckgo.ca,geolocation-!cn
 HOST-SUFFIX,duckduckgo.co,geolocation-!cn
-HOST-SUFFIX,jizzle.com,geolocation-!cn
+HOST-SUFFIX,xxxvirtualworld.com,geolocation-!cn
 HOST-SUFFIX,duckduckgo.com,geolocation-!cn
 HOST-SUFFIX,xxxvidso.com,geolocation-!cn
 HOST-SUFFIX,xxxvidos.vip,geolocation-!cn
@@ -8692,7 +8694,7 @@ HOST-SUFFIX,xxxfiles.com,geolocation-!cn
 HOST-SUFFIX,xxxfile.org,geolocation-!cn
 HOST-SUFFIX,epochtimes.com,geolocation-!cn
 HOST-SUFFIX,xxxengine.net,geolocation-!cn
-HOST-SUFFIX,xxxdinotube.com,geolocation-!cn
+HOST-SUFFIX,jizzle.com,geolocation-!cn
 HOST-SUFFIX,xxxdesi.cc,geolocation-!cn
 HOST-SUFFIX,xxxdan.com,geolocation-!cn
 HOST-SUFFIX,xxxcomics.org,geolocation-!cn
@@ -13987,9 +13989,9 @@ HOST-SUFFIX,jgoodies.com,geolocation-!cn
 HOST-SUFFIX,jhelab.org,geolocation-!cn
 HOST-SUFFIX,jhxl.org,geolocation-!cn
 HOST-SUFFIX,jhzyw.xyz,geolocation-!cn
-HOST-SUFFIX,000webhost.com,geolocation-!cn
+HOST-SUFFIX,jiangweiping.com,geolocation-!cn
 HOST-SUFFIX,jiaochuanba25.buzz,geolocation-!cn
-HOST-SUFFIX,jiaochuanba26.buzz,geolocation-!cn
+HOST-SUFFIX,000webhost.com,geolocation-!cn
 HOST-SUFFIX,jiaoyou8.com,geolocation-!cn
 HOST-SUFFIX,jiayoulu.com,geolocation-!cn
 HOST-SUFFIX,jibemobile.com,geolocation-!cn
@@ -14022,11 +14024,11 @@ HOST-SUFFIX,jivara.global,geolocation-!cn
 HOST-SUFFIX,jiyou520.com,geolocation-!cn
 HOST-SUFFIX,xboxone.com,geolocation-!cn
 HOST-SUFFIX,jizzboom.com,geolocation-!cn
-HOST-SUFFIX,openspec.dev,geolocation-!cn
-HOST-SUFFIX,xboxone.co,geolocation-!cn
+HOST-SUFFIX,jizzbunker.com,geolocation-!cn
+HOST-SUFFIX,jizzhut.com,geolocation-!cn
+HOST-SUFFIX,xxxdinotube.com,geolocation-!cn
 HOST-SUFFIX,12diasderegalosdeitunes.hn,geolocation-!cn
-HOST-SUFFIX,jizzonline.com,geolocation-!cn
-HOST-SUFFIX,jjgirls.com,geolocation-!cn
+HOST-SUFFIX,xboxone.co,geolocation-!cn
 HOST-SUFFIX,jjsuo.sbs,geolocation-!cn
 HOST-SUFFIX,jkb.cc,geolocation-!cn
 HOST-SUFFIX,jkbeats.com,geolocation-!cn
@@ -14043,7 +14045,7 @@ HOST-SUFFIX,jm18c-bbm.net,geolocation-!cn
 HOST-SUFFIX,jm18c-uoi.net,geolocation-!cn
 HOST-SUFFIX,jm365.work,geolocation-!cn
 HOST-SUFFIX,jm365.xyz,geolocation-!cn
-HOST-SUFFIX,jm98.cc,geolocation-!cn
+HOST-SUFFIX,jizzonline.com,geolocation-!cn
 HOST-SUFFIX,xboxlive.com,geolocation-!cn
 HOST-SUFFIX,jmapibranch1.cc,geolocation-!cn
 HOST-SUFFIX,jmapibranch2.cc,geolocation-!cn
@@ -15223,6 +15225,7 @@ HOST-SUFFIX,magentomobile.com,geolocation-!cn
 HOST-SUFFIX,magestic.com,geolocation-!cn
 HOST-SUFFIX,magicalmirai.com,geolocation-!cn
 HOST-SUFFIX,magicmovies.com,geolocation-!cn
+HOST-SUFFIX,magnific.com,geolocation-!cn
 HOST-SUFFIX,mahajantech.com,geolocation-!cn
 HOST-SUFFIX,mahjongsoul.com,geolocation-!cn
 HOST-SUFFIX,maidonanews.jp,geolocation-!cn
@@ -16693,6 +16696,7 @@ HOST-SUFFIX,mt.lv,geolocation-!cn
 HOST-SUFFIX,mt0011.site,geolocation-!cn
 HOST-SUFFIX,mtao.fun,geolocation-!cn
 HOST-SUFFIX,mthruf.com,geolocation-!cn
+HOST-SUFFIX,mts-link.ru,geolocation-!cn
 HOST-SUFFIX,mts-ws.net,geolocation-!cn
 HOST-SUFFIX,mts.ru,geolocation-!cn
 HOST-SUFFIX,mtsbank.ru,geolocation-!cn
@@ -18242,7 +18246,7 @@ HOST-SUFFIX,opensea.io,geolocation-!cn
 HOST-SUFFIX,opensource.guide,geolocation-!cn
 HOST-SUFFIX,opensourceinsight.dev,geolocation-!cn
 HOST-SUFFIX,opensourceinsights.dev,geolocation-!cn
-HOST-SUFFIX,jizzbunker.com,geolocation-!cn
+HOST-SUFFIX,openspec.dev,geolocation-!cn
 HOST-SUFFIX,openssl.org,geolocation-!cn
 HOST-SUFFIX,openstreetmap.com,geolocation-!cn
 HOST-SUFFIX,openstreetmap.net,geolocation-!cn
@@ -19539,6 +19543,7 @@ HOST-SUFFIX,postgresql.org,geolocation-!cn
 HOST-SUFFIX,postimages.org,geolocation-!cn
 HOST-SUFFIX,postimg.cc,geolocation-!cn
 HOST-SUFFIX,postini.com,geolocation-!cn
+HOST-SUFFIX,postman.com,geolocation-!cn
 HOST-SUFFIX,wemigrate.org,geolocation-!cn
 HOST-SUFFIX,posty.kr,geolocation-!cn
 HOST-SUFFIX,postyourgirls.ws,geolocation-!cn
@@ -25803,7 +25808,7 @@ HOST-SUFFIX,joyobank.co.jp,geolocation-!cn
 HOST-SUFFIX,jornaldacidadeonline.com.br,geolocation-!cn
 HOST-SUFFIX,jobmarket.com.hk,geolocation-!cn
 HOST-SUFFIX,jma.go.jp,geolocation-!cn
-HOST-SUFFIX,book.com.tw,geolocation-!cn
+HOST-SUFFIX,blog.martinoei.com,geolocation-!cn
 HOST-SUFFIX,jiyu-kobo.co.jp,geolocation-!cn
 HOST-SUFFIX,jiuse.com.co,geolocation-!cn
 HOST-SUFFIX,jibunbank.co.jp,geolocation-!cn
@@ -26711,6 +26716,7 @@ HOST-SUFFIX,bossagency.co.uk,geolocation-!cn
 HOST-SUFFIX,bookwalker.com.tw,geolocation-!cn
 HOST-SUFFIX,booktopia.com.au,geolocation-!cn
 HOST-SUFFIX,books.com.tw,geolocation-!cn
+HOST-SUFFIX,book.com.tw,geolocation-!cn
 HOST-SUFFIX,boj.or.jp,geolocation-!cn
 HOST-SUFFIX,bodyandsoul.com.au,geolocation-!cn
 HOST-SUFFIX,bnext.com.tw,geolocation-!cn
@@ -26767,8 +26773,8 @@ HOST-SUFFIX,bmw-motorrad.com.my,geolocation-!cn
 HOST-SUFFIX,bmw-motorrad.com.mx,geolocation-!cn
 HOST-SUFFIX,bmw-motorrad.com.hr,geolocation-!cn
 HOST-SUFFIX,bmw-motorrad.com.do,geolocation-!cn
-HOST-SUFFIX,bmw-motorrad.com.br,geolocation-!cn
 HOST-SUFFIX,yourtv.com.au,geolocation-!cn
+HOST-SUFFIX,bmw-motorrad.com.br,geolocation-!cn
 HOST-SUFFIX,bmw-motorrad.com.au,geolocation-!cn
 HOST-SUFFIX,bmw-motorrad.com.ar,geolocation-!cn
 HOST-SUFFIX,bmw-motorrad.co.za,geolocation-!cn
@@ -26796,7 +26802,6 @@ HOST-SUFFIX,blogspot.com.uy,geolocation-!cn
 HOST-SUFFIX,blogspot.com.tr,geolocation-!cn
 HOST-SUFFIX,blogspot.com.ng,geolocation-!cn
 HOST-SUFFIX,blogspot.com.mt,geolocation-!cn
-HOST-SUFFIX,blogspot.com.es,geolocation-!cn
 HOST-SUFFIX,youtube.co.ae,geolocation-!cn
 HOST-SUFFIX,youtube.co.at,geolocation-!cn
 HOST-SUFFIX,youtube.co.cr,geolocation-!cn
@@ -26816,7 +26821,7 @@ HOST-SUFFIX,youtube.co.uk,geolocation-!cn
 HOST-SUFFIX,youtube.co.ve,geolocation-!cn
 HOST-SUFFIX,youtube.co.za,geolocation-!cn
 HOST-SUFFIX,youtube.co.zw,geolocation-!cn
-HOST-SUFFIX,blogspot.com.eg,geolocation-!cn
+HOST-SUFFIX,blogspot.com.es,geolocation-!cn
 HOST-SUFFIX,youtube.com.ar,geolocation-!cn
 HOST-SUFFIX,youtube.com.au,geolocation-!cn
 HOST-SUFFIX,youtube.com.az,geolocation-!cn
@@ -26867,6 +26872,7 @@ HOST-SUFFIX,youtube.com.tw,geolocation-!cn
 HOST-SUFFIX,youtube.com.ua,geolocation-!cn
 HOST-SUFFIX,youtube.com.uy,geolocation-!cn
 HOST-SUFFIX,youtube.com.ve,geolocation-!cn
+HOST-SUFFIX,blogspot.com.eg,geolocation-!cn
 HOST-SUFFIX,blogspot.com.ee,geolocation-!cn
 HOST-SUFFIX,blogspot.com.cy,geolocation-!cn
 HOST-SUFFIX,blogspot.com.co,geolocation-!cn
@@ -26887,7 +26893,6 @@ HOST-SUFFIX,blog.reimu.net,geolocation-!cn
 HOST-SUFFIX,blog.ranxiang.com,geolocation-!cn
 HOST-SUFFIX,blog.pentalogic.net,geolocation-!cn
 HOST-SUFFIX,blog.pathtosharepoint.com,geolocation-!cn
-HOST-SUFFIX,blog.martinoei.com,geolocation-!cn
 HOST-SUFFIX,blog.jackjia.com,geolocation-!cn
 HOST-SUFFIX,blog.fuckgfw233.org,geolocation-!cn
 HOST-SUFFIX,blog.fizzik.com,geolocation-!cn
