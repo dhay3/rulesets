@@ -1,8 +1,8 @@
 # NAME: cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/cn.list
 # HOST: 0
-# HOST-SUFFIX: 110446
-# TOTAL: 110446
+# HOST-SUFFIX: 110448
+# TOTAL: 110448
 HOST-SUFFIX,alibaba,cn
 HOST-SUFFIX,yun,cn
 HOST-SUFFIX,xn--zfr164b,cn
@@ -55,8 +55,8 @@ HOST-SUFFIX,citic,cn
 HOST-SUFFIX,baidu,cn
 HOST-SUFFIX,anquan,cn
 HOST-SUFFIX,alipay,cn
-HOST-SUFFIX,jspatch.com,cn
-HOST-SUFFIX,hfray.com,cn
+HOST-SUFFIX,jspcinc.com,cn
+HOST-SUFFIX,formtalk.net,cn
 HOST-SUFFIX,027yx.com,cn
 HOST-SUFFIX,027zb.com,cn
 HOST-SUFFIX,027zikao.com,cn
@@ -6435,7 +6435,7 @@ HOST-SUFFIX,666666.host,cn
 HOST-SUFFIX,6666m.vip,cn
 HOST-SUFFIX,6666ppt.com,cn
 HOST-SUFFIX,6666sa.com,cn
-HOST-SUFFIX,6666xsw.com,cn
+HOST-SUFFIX,jsxdyh.com,cn
 HOST-SUFFIX,6668dns.com,cn
 HOST-SUFFIX,6669832.com,cn
 HOST-SUFFIX,666bos.com,cn
@@ -28977,7 +28977,7 @@ HOST-SUFFIX,dongguantoday.com,cn
 HOST-SUFFIX,donghaidl.com,cn
 HOST-SUFFIX,donghaifunds.com,cn
 HOST-SUFFIX,donghaileasing.com,cn
-HOST-SUFFIX,jsxdyh.com,cn
+HOST-SUFFIX,donghaotest.com,cn
 HOST-SUFFIX,donghetea.com,cn
 HOST-SUFFIX,donghongzx.com,cn
 HOST-SUFFIX,donghuangshanquan.com,cn
@@ -34328,7 +34328,7 @@ HOST-SUFFIX,form-create.com,cn
 HOST-SUFFIX,formeasy.cc,cn
 HOST-SUFFIX,formingcn.com,cn
 HOST-SUFFIX,formssi.com,cn
-HOST-SUFFIX,formtalk.net,cn
+HOST-SUFFIX,jsxdf.com,cn
 HOST-SUFFIX,fornature.com,cn
 HOST-SUFFIX,forrealbio.com,cn
 HOST-SUFFIX,forrelaxing.com,cn
@@ -44443,7 +44443,7 @@ HOST-SUFFIX,hfplg.com,cn
 HOST-SUFFIX,hfpx.cc,cn
 HOST-SUFFIX,hfqgmagnet.com,cn
 HOST-SUFFIX,hfqinhang.com,cn
-HOST-SUFFIX,jsxdf.com,cn
+HOST-SUFFIX,hfray.com,cn
 HOST-SUFFIX,hfrc.net,cn
 HOST-SUFFIX,hfrcbc.com,cn
 HOST-SUFFIX,hfrsggff.com,cn
@@ -55090,9 +55090,9 @@ HOST-SUFFIX,jsomick.com,cn
 HOST-SUFFIX,jsonin.com,cn
 HOST-SUFFIX,jsososo.com,cn
 HOST-SUFFIX,jspang.com,cn
-HOST-SUFFIX,0.zone,cn
+HOST-SUFFIX,jspatch.com,cn
 HOST-SUFFIX,jspcgjg.com,cn
-HOST-SUFFIX,jspcinc.com,cn
+HOST-SUFFIX,0.zone,cn
 HOST-SUFFIX,jspdg.com,cn
 HOST-SUFFIX,jspeople.com,cn
 HOST-SUFFIX,jspesz.com,cn
@@ -55251,9 +55251,9 @@ HOST-SUFFIX,jswyw.com,cn
 HOST-SUFFIX,jswzjt.com,cn
 HOST-SUFFIX,jsxbxcl.com,cn
 HOST-SUFFIX,jsxcra.com,cn
-HOST-SUFFIX,snail.com,cn
+HOST-SUFFIX,mweda.com,cn
 HOST-SUFFIX,027wcbyy.com,cn
-HOST-SUFFIX,donghaotest.com,cn
+HOST-SUFFIX,6666xsw.com,cn
 HOST-SUFFIX,jsxfedu.com,cn
 HOST-SUFFIX,jsxggx.com,cn
 HOST-SUFFIX,jsxgjt.com,cn
@@ -66269,7 +66269,7 @@ HOST-SUFFIX,mwclg.com,cn
 HOST-SUFFIX,mwcloudcdn.com,cn
 HOST-SUFFIX,mwcloudcdn.info,cn
 HOST-SUFFIX,mwcname.com,cn
-HOST-SUFFIX,mweda.com,cn
+HOST-SUFFIX,jsxcx.com,cn
 HOST-SUFFIX,mwemp.com,cn
 HOST-SUFFIX,mwjournalchina.com,cn
 HOST-SUFFIX,mwkj.net,cn
@@ -82527,7 +82527,7 @@ HOST-SUFFIX,smzjy.cc,cn
 HOST-SUFFIX,smzy.com,cn
 HOST-SUFFIX,sn180.com,cn
 HOST-SUFFIX,snai.edu,cn
-HOST-SUFFIX,jsxcx.com,cn
+HOST-SUFFIX,snail.com,cn
 HOST-SUFFIX,snail007.com,cn
 HOST-SUFFIX,snailgame.net,cn
 HOST-SUFFIX,snailovet.com,cn
@@ -85688,6 +85688,8 @@ HOST-SUFFIX,sztxsz.com,cn
 HOST-SUFFIX,szty56.com,cn
 HOST-SUFFIX,sztz.org,cn
 HOST-SUFFIX,sztzzs.com,cn
+HOST-SUFFIX,szu.app,cn
+HOST-SUFFIX,szu.moe,cn
 HOST-SUFFIX,szuavia.org,cn
 HOST-SUFFIX,szudad.com,cn
 HOST-SUFFIX,szunionlab.com,cn
