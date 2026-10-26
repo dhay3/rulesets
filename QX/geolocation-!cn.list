@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/geolocation-!cn.list
-# HOST: 762
-# HOST-SUFFIX: 26511
-# TOTAL: 27273
+# HOST: 763
+# HOST-SUFFIX: 26519
+# TOTAL: 27282
 HOST,1password.drift.click,geolocation-!cn
 HOST,3dns-1.adobe.com,geolocation-!cn
 HOST,3dns-2.adobe.com,geolocation-!cn
@@ -184,6 +184,7 @@ HOST,docker-pinata-support.s3.amazonaws.com,geolocation-!cn
 HOST,doy2mn9upadnk.cloudfront.net,geolocation-!cn
 HOST,dqd0jw5gvbchn.cloudfront.net,geolocation-!cn
 HOST,dqrpb9wgowsf5.cloudfront.net,geolocation-!cn
+HOST,dropbox.zendesk.com,geolocation-!cn
 HOST,ds-linear-abematv.akamaized.net,geolocation-!cn
 HOST,ds-vod-abematv.akamaized.net,geolocation-!cn
 HOST,ds0h3roq6wcgc.cloudfront.net,geolocation-!cn
@@ -836,8 +837,8 @@ HOST-SUFFIX,aws,geolocation-!cn
 HOST-SUFFIX,apple,geolocation-!cn
 HOST-SUFFIX,android,geolocation-!cn
 HOST-SUFFIX,amazon,geolocation-!cn
-HOST-SUFFIX,jetbrains.space,geolocation-!cn
-HOST-SUFFIX,firestonetire.com,geolocation-!cn
+HOST-SUFFIX,jetbrains.dev,geolocation-!cn
+HOST-SUFFIX,2ch.hk,geolocation-!cn
 HOST-SUFFIX,12diasderegalosdeitunes.hn,geolocation-!cn
 HOST-SUFFIX,12diasderegalosdeitunes.pe,geolocation-!cn
 HOST-SUFFIX,12joursdecadeauxdeitunes.com,geolocation-!cn
@@ -1006,7 +1007,7 @@ HOST-SUFFIX,2beatsdre.com,geolocation-!cn
 HOST-SUFFIX,2beeg.me,geolocation-!cn
 HOST-SUFFIX,2bit8.com,geolocation-!cn
 HOST-SUFFIX,2buybeatsbydre.com,geolocation-!cn
-HOST-SUFFIX,2ch.hk,geolocation-!cn
+HOST-SUFFIX,jintian.net,geolocation-!cn
 HOST-SUFFIX,2ch.life,geolocation-!cn
 HOST-SUFFIX,2ch.net,geolocation-!cn
 HOST-SUFFIX,2ch.org,geolocation-!cn
@@ -1528,6 +1529,7 @@ HOST-SUFFIX,addthis.com,geolocation-!cn
 HOST-SUFFIX,addthiscdn.com,geolocation-!cn
 HOST-SUFFIX,addthisedge.com,geolocation-!cn
 HOST-SUFFIX,addtoany.com,geolocation-!cn
+HOST-SUFFIX,addtodropbox.com,geolocation-!cn
 HOST-SUFFIX,addyoutube.com,geolocation-!cn
 HOST-SUFFIX,zuckerberg.net,geolocation-!cn
 HOST-SUFFIX,adgoogle.net,geolocation-!cn
@@ -7066,6 +7068,7 @@ HOST-SUFFIX,darwinsource.com,geolocation-!cn
 HOST-SUFFIX,darwinsource.org,geolocation-!cn
 HOST-SUFFIX,darwinsourcecode.com,geolocation-!cn
 HOST-SUFFIX,dasaob.online,geolocation-!cn
+HOST-SUFFIX,dash.ai,geolocation-!cn
 HOST-SUFFIX,dashlane.com,geolocation-!cn
 HOST-SUFFIX,dashly.app,geolocation-!cn
 HOST-SUFFIX,dashly.help,geolocation-!cn
@@ -7822,6 +7825,7 @@ HOST-SUFFIX,docs.com,geolocation-!cn
 HOST-SUFFIX,docs.new,geolocation-!cn
 HOST-SUFFIX,docs.rs,geolocation-!cn
 HOST-SUFFIX,docs.rw,geolocation-!cn
+HOST-SUFFIX,docsend.com,geolocation-!cn
 HOST-SUFFIX,doctor-videos.com,geolocation-!cn
 HOST-SUFFIX,documentforce.com,geolocation-!cn
 HOST-SUFFIX,documentingreality.com,geolocation-!cn
@@ -8016,12 +8020,15 @@ HOST-SUFFIX,dropbox.tech,geolocation-!cn
 HOST-SUFFIX,dropboxapi.com,geolocation-!cn
 HOST-SUFFIX,dropboxbusiness.com,geolocation-!cn
 HOST-SUFFIX,dropboxcaptcha.com,geolocation-!cn
+HOST-SUFFIX,dropboxexperiment.com,geolocation-!cn
 HOST-SUFFIX,dropboxforum.com,geolocation-!cn
 HOST-SUFFIX,dropboxforums.com,geolocation-!cn
 HOST-SUFFIX,dropboxinsiders.com,geolocation-!cn
+HOST-SUFFIX,dropboxlegal.com,geolocation-!cn
 HOST-SUFFIX,dropboxmail.com,geolocation-!cn
 HOST-SUFFIX,dropboxpartners.com,geolocation-!cn
 HOST-SUFFIX,dropboxstatic.com,geolocation-!cn
+HOST-SUFFIX,dropboxteam.com,geolocation-!cn
 HOST-SUFFIX,dropboxusercontent.com,geolocation-!cn
 HOST-SUFFIX,drpc.org,geolocation-!cn
 HOST-SUFFIX,drtuber.com,geolocation-!cn
@@ -9706,7 +9713,7 @@ HOST-SUFFIX,firestonedrivestore.com,geolocation-!cn
 HOST-SUFFIX,firestoneip.com,geolocation-!cn
 HOST-SUFFIX,firestonerewards.com,geolocation-!cn
 HOST-SUFFIX,firestonetire.ca,geolocation-!cn
-HOST-SUFFIX,jitouch.com,geolocation-!cn
+HOST-SUFFIX,firestonetire.com,geolocation-!cn
 HOST-SUFFIX,firetweet.io,geolocation-!cn
 HOST-SUFFIX,firewire.cl,geolocation-!cn
 HOST-SUFFIX,firewire.eu,geolocation-!cn
@@ -11739,9 +11746,11 @@ HOST-SUFFIX,heise360182.buzz,geolocation-!cn
 HOST-SUFFIX,helixstudios.net,geolocation-!cn
 HOST-SUFFIX,helloandroid.com,geolocation-!cn
 HOST-SUFFIX,helloavgirls.com,geolocation-!cn
+HOST-SUFFIX,hellofax.com,geolocation-!cn
 HOST-SUFFIX,hellokittybeats.com,geolocation-!cn
 HOST-SUFFIX,hellomoto.com,geolocation-!cn
 HOST-SUFFIX,helloqueer.com,geolocation-!cn
+HOST-SUFFIX,hellosign.com,geolocation-!cn
 HOST-SUFFIX,hellosmartbook.com,geolocation-!cn
 HOST-SUFFIX,hellporno.com,geolocation-!cn
 HOST-SUFFIX,hellven.net,geolocation-!cn
@@ -13552,7 +13561,7 @@ HOST-SUFFIX,xdh999.one,geolocation-!cn
 HOST-SUFFIX,xdaimages.com,geolocation-!cn
 HOST-SUFFIX,iphone.es,geolocation-!cn
 HOST-SUFFIX,iphone.host,geolocation-!cn
-HOST-SUFFIX,xdaforums.com,geolocation-!cn
+HOST-SUFFIX,jinx.com,geolocation-!cn
 HOST-SUFFIX,iphone.pt,geolocation-!cn
 HOST-SUFFIX,iphone.rs,geolocation-!cn
 HOST-SUFFIX,iphone.ru,geolocation-!cn
@@ -14015,11 +14024,11 @@ HOST-SUFFIX,jessicaturner.com,geolocation-!cn
 HOST-SUFFIX,jetbrains.ai,geolocation-!cn
 HOST-SUFFIX,jetbrains.cloud,geolocation-!cn
 HOST-SUFFIX,jetbrains.com,geolocation-!cn
-HOST-SUFFIX,jetbrains.dev,geolocation-!cn
+HOST-SUFFIX,000webhost.com,geolocation-!cn
 HOST-SUFFIX,jetbrains.net,geolocation-!cn
 HOST-SUFFIX,jetbrains.org,geolocation-!cn
 HOST-SUFFIX,jetbrains.ru,geolocation-!cn
-HOST-SUFFIX,000webhost.com,geolocation-!cn
+HOST-SUFFIX,jetbrains.space,geolocation-!cn
 HOST-SUFFIX,jetbrains.team,geolocation-!cn
 HOST-SUFFIX,jetfuelapp.com,geolocation-!cn
 HOST-SUFFIX,jetfuelapps.com,geolocation-!cn
@@ -14050,13 +14059,13 @@ HOST-SUFFIX,jilhub.com,geolocation-!cn
 HOST-SUFFIX,jimeng22.com,geolocation-!cn
 HOST-SUFFIX,jims.net,geolocation-!cn
 HOST-SUFFIX,jingpin.org,geolocation-!cn
-HOST-SUFFIX,jinrizhiyi.news,geolocation-!cn
-HOST-SUFFIX,jintian.net,geolocation-!cn
-HOST-SUFFIX,jinx.com,geolocation-!cn
-HOST-SUFFIX,jira-tcsbank.ru,geolocation-!cn
-HOST-SUFFIX,thaigirls100.net,geolocation-!cn
+HOST-SUFFIX,stuidok110.com,geolocation-!cn
 HOST-SUFFIX,12diasderegalosdeitunes.gt,geolocation-!cn
-HOST-SUFFIX,nintendoswitch.com,geolocation-!cn
+HOST-SUFFIX,xdaforums.com,geolocation-!cn
+HOST-SUFFIX,jira-tcsbank.ru,geolocation-!cn
+HOST-SUFFIX,jira.com,geolocation-!cn
+HOST-SUFFIX,jitouch.com,geolocation-!cn
+HOST-SUFFIX,jitsi.org,geolocation-!cn
 HOST-SUFFIX,jiuse.ai,geolocation-!cn
 HOST-SUFFIX,xbox360.co,geolocation-!cn
 HOST-SUFFIX,jiuse.icu,geolocation-!cn
@@ -17637,7 +17646,7 @@ HOST-SUFFIX,nintendoeurope.com,geolocation-!cn
 HOST-SUFFIX,nintendonetwork.net,geolocation-!cn
 HOST-SUFFIX,nintendonyc.com,geolocation-!cn
 HOST-SUFFIX,nintendostore.com,geolocation-!cn
-HOST-SUFFIX,jitsi.org,geolocation-!cn
+HOST-SUFFIX,nintendoswitch.com,geolocation-!cn
 HOST-SUFFIX,nintendoswitch.net,geolocation-!cn
 HOST-SUFFIX,nintendoswitchtogether.com,geolocation-!cn
 HOST-SUFFIX,nintendowii.com,geolocation-!cn
@@ -22398,7 +22407,7 @@ HOST-SUFFIX,studiosucks.com,geolocation-!cn
 HOST-SUFFIX,studywatchbyverily.com,geolocation-!cn
 HOST-SUFFIX,studywatchbyverily.org,geolocation-!cn
 HOST-SUFFIX,stufferdb.com,geolocation-!cn
-HOST-SUFFIX,stuidok110.com,geolocation-!cn
+HOST-SUFFIX,jinrizhiyi.news,geolocation-!cn
 HOST-SUFFIX,stumbleupon.com,geolocation-!cn
 HOST-SUFFIX,stunnel.org,geolocation-!cn
 HOST-SUFFIX,stupidcams.com,geolocation-!cn
@@ -22926,7 +22935,7 @@ HOST-SUFFIX,thai69.com,geolocation-!cn
 HOST-SUFFIX,thaichix.com,geolocation-!cn
 HOST-SUFFIX,thaicuties.com,geolocation-!cn
 HOST-SUFFIX,thaigirls.net,geolocation-!cn
-HOST-SUFFIX,jira.com,geolocation-!cn
+HOST-SUFFIX,thaigirls100.net,geolocation-!cn
 HOST-SUFFIX,thanksloyalty.com,geolocation-!cn
 HOST-SUFFIX,thawte.com,geolocation-!cn
 HOST-SUFFIX,thawte.de,geolocation-!cn
