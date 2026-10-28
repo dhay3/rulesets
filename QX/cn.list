@@ -1,8 +1,8 @@
 # NAME: cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/cn.list
 # HOST: 0
-# HOST-SUFFIX: 110175
-# TOTAL: 110175
+# HOST-SUFFIX: 110177
+# TOTAL: 110177
 HOST-SUFFIX,alibaba,cn
 HOST-SUFFIX,yun,cn
 HOST-SUFFIX,xn--zfr164b,cn
@@ -55,8 +55,8 @@ HOST-SUFFIX,citic,cn
 HOST-SUFFIX,baidu,cn
 HOST-SUFFIX,anquan,cn
 HOST-SUFFIX,alipay,cn
-HOST-SUFFIX,soliao.com,cn
-HOST-SUFFIX,kbrightlaw.com,cn
+HOST-SUFFIX,solepic.com,cn
+HOST-SUFFIX,hangzhoueda.com,cn
 HOST-SUFFIX,028office.com,cn
 HOST-SUFFIX,028px.com,cn
 HOST-SUFFIX,028pxw.com,cn
@@ -386,7 +386,7 @@ HOST-SUFFIX,0708.com,cn
 HOST-SUFFIX,0712fang.com,cn
 HOST-SUFFIX,0714.com,cn
 HOST-SUFFIX,0714110.xin,cn
-HOST-SUFFIX,0715fc.com,cn
+HOST-SUFFIX,jszhiping.com,cn
 HOST-SUFFIX,0715rc.com,cn
 HOST-SUFFIX,0715zp.com,cn
 HOST-SUFFIX,0716fw.com,cn
@@ -33490,6 +33490,7 @@ HOST-SUFFIX,filfox.info,cn
 HOST-SUFFIX,fillersmart.com,cn
 HOST-SUFFIX,fillseo.com,cn
 HOST-SUFFIX,film-yuelongchina.com,cn
+HOST-SUFFIX,filmorigin.com,cn
 HOST-SUFFIX,fily.fun,cn
 HOST-SUFFIX,fim34s.com,cn
 HOST-SUFFIX,fimmu.com,cn
@@ -42355,7 +42356,7 @@ HOST-SUFFIX,hangyang.com,cn
 HOST-SUFFIX,hangyecloud.com,cn
 HOST-SUFFIX,hangzhiqiao.com,cn
 HOST-SUFFIX,hangzhouboiler.com,cn
-HOST-SUFFIX,hangzhoueda.com,cn
+HOST-SUFFIX,jszhaobiao.com,cn
 HOST-SUFFIX,hangzhouexpo.com,cn
 HOST-SUFFIX,hangzhoufujikura.com,cn
 HOST-SUFFIX,hangzhoujizhang.com,cn
@@ -55115,10 +55116,10 @@ HOST-SUFFIX,jszca.com,cn
 HOST-SUFFIX,jszcqy.com,cn
 HOST-SUFFIX,jszdlssws.com,cn
 HOST-SUFFIX,jszf.org,cn
-HOST-SUFFIX,w0663.com,cn
+HOST-SUFFIX,jszfy.com,cn
+HOST-SUFFIX,zjdianying.com,cn
 HOST-SUFFIX,028ltzx.com,cn
-HOST-SUFFIX,pinzhikeji.net,cn
-HOST-SUFFIX,jszhiping.com,cn
+HOST-SUFFIX,0715fc.com,cn
 HOST-SUFFIX,jszhjsjtgs.com,cn
 HOST-SUFFIX,jszhongci.com,cn
 HOST-SUFFIX,jszjcg.com,cn
@@ -56272,6 +56273,7 @@ HOST-SUFFIX,kakamobi.com,cn
 HOST-SUFFIX,kakappt.com,cn
 HOST-SUFFIX,kakashuzi.net,cn
 HOST-SUFFIX,kakatx.com,cn
+HOST-SUFFIX,kakaxing.com,cn
 HOST-SUFFIX,kakayuy.net,cn
 HOST-SUFFIX,kaken-china.com,cn
 HOST-SUFFIX,kaku-scdn.com,cn
@@ -56561,7 +56563,7 @@ HOST-SUFFIX,kblin.com,cn
 HOST-SUFFIX,kbmlifesci.com,cn
 HOST-SUFFIX,kbn-zhejiang.com,cn
 HOST-SUFFIX,kboth.com,cn
-HOST-SUFFIX,jszg.org,cn
+HOST-SUFFIX,kbrightlaw.com,cn
 HOST-SUFFIX,kbscd.net,cn
 HOST-SUFFIX,kbscloud.com,cn
 HOST-SUFFIX,kbsml.com,cn
@@ -71544,7 +71546,7 @@ HOST-SUFFIX,pinyinxiang.com,cn
 HOST-SUFFIX,pinyuan.cc,cn
 HOST-SUFFIX,pinyuew.com,cn
 HOST-SUFFIX,pinzhi365.com,cn
-HOST-SUFFIX,jszhaobiao.com,cn
+HOST-SUFFIX,pinzhikeji.net,cn
 HOST-SUFFIX,pinzs.com,cn
 HOST-SUFFIX,pioneer-pharma.com,cn
 HOST-SUFFIX,pioneer-pku.com,cn
@@ -82564,9 +82566,9 @@ HOST-SUFFIX,solarzoom.com,cn
 HOST-SUFFIX,solasmat.com,cn
 HOST-SUFFIX,soldeazy.com,cn
 HOST-SUFFIX,solelybio.com,cn
-HOST-SUFFIX,solepic.com,cn
-HOST-SUFFIX,soletower.com,cn
 HOST-SUFFIX,0.zone,cn
+HOST-SUFFIX,soletower.com,cn
+HOST-SUFFIX,soliao.com,cn
 HOST-SUFFIX,solidifyk.com,cn
 HOST-SUFFIX,solidigm-asdf.com,cn
 HOST-SUFFIX,solidigm-nvme.com,cn
@@ -92206,7 +92208,7 @@ HOST-SUFFIX,w.biz,cn
 HOST-SUFFIX,w0028.cc,cn
 HOST-SUFFIX,w032.com,cn
 HOST-SUFFIX,w03voavpa5.com,cn
-HOST-SUFFIX,jszfy.com,cn
+HOST-SUFFIX,w0663.com,cn
 HOST-SUFFIX,w0x9r0k2l1.com,cn
 HOST-SUFFIX,w0y.com,cn
 HOST-SUFFIX,w10a.com,cn
@@ -108198,7 +108200,7 @@ HOST-SUFFIX,zjdetong.com,cn
 HOST-SUFFIX,zjdfc.com,cn
 HOST-SUFFIX,zjdg.com,cn
 HOST-SUFFIX,zjdhky.com,cn
-HOST-SUFFIX,zjdianying.com,cn
+HOST-SUFFIX,jszg.org,cn
 HOST-SUFFIX,zjdjc.com,cn
 HOST-SUFFIX,zjdjqc.com,cn
 HOST-SUFFIX,zjdjxh.com,cn
