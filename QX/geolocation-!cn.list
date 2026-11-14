@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
 # SOURCE: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/geolocation-!cn.list
 # HOST: 771
-# HOST-SUFFIX: 26536
-# TOTAL: 27307
+# HOST-SUFFIX: 26537
+# TOTAL: 27308
 HOST,1password.drift.click,geolocation-!cn
 HOST,3dns-1.adobe.com,geolocation-!cn
 HOST,3dns-2.adobe.com,geolocation-!cn
@@ -845,8 +845,8 @@ HOST-SUFFIX,aws,geolocation-!cn
 HOST-SUFFIX,apple,geolocation-!cn
 HOST-SUFFIX,android,geolocation-!cn
 HOST-SUFFIX,amazon,geolocation-!cn
-HOST-SUFFIX,jerkmatelive.org,geolocation-!cn
-HOST-SUFFIX,pixlromatic.com,geolocation-!cn
+HOST-SUFFIX,jerkmate.tv,geolocation-!cn
+HOST-SUFFIX,spyrothedragon.com,geolocation-!cn
 HOST-SUFFIX,12diasderegalosdeitunes.hn,geolocation-!cn
 HOST-SUFFIX,12diasderegalosdeitunes.pe,geolocation-!cn
 HOST-SUFFIX,12joursdecadeauxdeitunes.com,geolocation-!cn
@@ -1166,6 +1166,7 @@ HOST-SUFFIX,51lieqi.com,geolocation-!cn
 HOST-SUFFIX,51luoben.com,geolocation-!cn
 HOST-SUFFIX,51luoli.info,geolocation-!cn
 HOST-SUFFIX,51mh.app,geolocation-!cn
+HOST-SUFFIX,51papaya.com,geolocation-!cn
 HOST-SUFFIX,51pincha.cc,geolocation-!cn
 HOST-SUFFIX,51tuqiang.com,geolocation-!cn
 HOST-SUFFIX,520aa.tv,geolocation-!cn
@@ -5282,7 +5283,7 @@ HOST-SUFFIX,bravotube.tv,geolocation-!cn
 HOST-SUFFIX,brawlstars.com,geolocation-!cn
 HOST-SUFFIX,brawlstarsgame.com,geolocation-!cn
 HOST-SUFFIX,brazilpartneruniversity.com,geolocation-!cn
-HOST-SUFFIX,brazz.org,geolocation-!cn
+HOST-SUFFIX,jiji.com,geolocation-!cn
 HOST-SUFFIX,brazzer.com,geolocation-!cn
 HOST-SUFFIX,brazzers-porno.online,geolocation-!cn
 HOST-SUFFIX,brazzers-xxx.net,geolocation-!cn
@@ -9020,7 +9021,7 @@ HOST-SUFFIX,extremetube.com,geolocation-!cn
 HOST-SUFFIX,exxxtra.net,geolocation-!cn
 HOST-SUFFIX,exxxtrasmall.com,geolocation-!cn
 HOST-SUFFIX,exxxtrasmall1.com,geolocation-!cn
-HOST-SUFFIX,eyevio.jp,geolocation-!cn
+HOST-SUFFIX,jifangge.com,geolocation-!cn
 HOST-SUFFIX,eyny.com,geolocation-!cn
 HOST-SUFFIX,f-dro1d.org,geolocation-!cn
 HOST-SUFFIX,f-droid.com,geolocation-!cn
@@ -14041,8 +14042,8 @@ HOST-SUFFIX,jerk24.com,geolocation-!cn
 HOST-SUFFIX,jerkdolls.com,geolocation-!cn
 HOST-SUFFIX,jerkdude.com,geolocation-!cn
 HOST-SUFFIX,jerkmate.com,geolocation-!cn
-HOST-SUFFIX,jerkmate.tv,geolocation-!cn
 HOST-SUFFIX,000webhost.com,geolocation-!cn
+HOST-SUFFIX,jerkmatelive.org,geolocation-!cn
 HOST-SUFFIX,jerkofftocelebs.com,geolocation-!cn
 HOST-SUFFIX,xboxgamepass.com,geolocation-!cn
 HOST-SUFFIX,jessicaturner.com,geolocation-!cn
@@ -14076,10 +14077,10 @@ HOST-SUFFIX,jiayoulu.com,geolocation-!cn
 HOST-SUFFIX,jibemobile.com,geolocation-!cn
 HOST-SUFFIX,xbox360.org,geolocation-!cn
 HOST-SUFFIX,jieav.com,geolocation-!cn
-HOST-SUFFIX,jifangge.com,geolocation-!cn
-HOST-SUFFIX,naverncp.com,geolocation-!cn
+HOST-SUFFIX,eyevio.jp,geolocation-!cn
 HOST-SUFFIX,12diasderegalosdeitunes.gt,geolocation-!cn
-HOST-SUFFIX,vpnmentor.com,geolocation-!cn
+HOST-SUFFIX,brazz.org,geolocation-!cn
+HOST-SUFFIX,jijiji.ca,geolocation-!cn
 HOST-SUFFIX,jilhub.com,geolocation-!cn
 HOST-SUFFIX,jimeng22.com,geolocation-!cn
 HOST-SUFFIX,jims.net,geolocation-!cn
@@ -17148,7 +17149,7 @@ HOST-SUFFIX,navercloudcorp.com,geolocation-!cn
 HOST-SUFFIX,navercorp.com,geolocation-!cn
 HOST-SUFFIX,naverfincorp.com,geolocation-!cn
 HOST-SUFFIX,naverlabs.com,geolocation-!cn
-HOST-SUFFIX,jihadology.net,geolocation-!cn
+HOST-SUFFIX,naverncp.com,geolocation-!cn
 HOST-SUFFIX,navisworks.com,geolocation-!cn
 HOST-SUFFIX,navisworks.net,geolocation-!cn
 HOST-SUFFIX,windows.com,geolocation-!cn
@@ -19103,7 +19104,7 @@ HOST-SUFFIX,pixiv.org,geolocation-!cn
 HOST-SUFFIX,pixivision.net,geolocation-!cn
 HOST-SUFFIX,pixivsketch.net,geolocation-!cn
 HOST-SUFFIX,pixlr-o-matic.com,geolocation-!cn
-HOST-SUFFIX,jiji.com,geolocation-!cn
+HOST-SUFFIX,pixlromatic.com,geolocation-!cn
 HOST-SUFFIX,pixnet.cc,geolocation-!cn
 HOST-SUFFIX,pixnet.net,geolocation-!cn
 HOST-SUFFIX,pixnet.pro,geolocation-!cn
@@ -22109,7 +22110,7 @@ HOST-SUFFIX,sputnikmediabank.com,geolocation-!cn
 HOST-SUFFIX,sputniknews.com,geolocation-!cn
 HOST-SUFFIX,spvb.ru,geolocation-!cn
 HOST-SUFFIX,spyjinx.com,geolocation-!cn
-HOST-SUFFIX,spyrothedragon.com,geolocation-!cn
+HOST-SUFFIX,jihadology.net,geolocation-!cn
 HOST-SUFFIX,sqlite.org,geolocation-!cn
 HOST-SUFFIX,sqlserveronlinux.com,geolocation-!cn
 HOST-SUFFIX,sqool.net,geolocation-!cn
@@ -23344,7 +23345,7 @@ HOST-SUFFIX,tkcs-collins.com,geolocation-!cn
 HOST-SUFFIX,tksex.com,geolocation-!cn
 HOST-SUFFIX,tktube.com,geolocation-!cn
 HOST-SUFFIX,tl.gd,geolocation-!cn
-HOST-SUFFIX,jijiji.ca,geolocation-!cn
+HOST-SUFFIX,vpnmentor.com,geolocation-!cn
 HOST-SUFFIX,tmagazine.com,geolocation-!cn
 HOST-SUFFIX,tmdb.org,geolocation-!cn
 HOST-SUFFIX,tmei-taoyuan.com,geolocation-!cn
